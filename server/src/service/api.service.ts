@@ -30,7 +30,7 @@ async function getCryptoPrice() {
     return await getCryptoPriceDB();
 }
 
-async function getCryptoPriceById(id, start, end) {
+async function getCryptoPriceById<T>(id: T, start: T, end: T) {
     return await getCryptoPriceByIdDB(id, start, end);
 }
 

@@ -1,6 +1,10 @@
 import { pool, pool2 } from '../bd';
-import { iUser } from '../interfaces/index'
+import { iCryptoPrices, iPostgresDB, iUser } from '../interfaces/index';
+import cron from 'node-cron';
 import axios from 'axios';
+import * as fs from 'fs';
+
+const historyPrice = JSON.parse(fs.readFileSync('./storage/storage.json', 'utf-8'));
 
 async function createUserDB<T>(name: T, surname: T, email: T, pwd: T): Promise<iUser[]> {
     const client = await pool.connect();
@@ -34,25 +38,26 @@ async function getEmailDB(email: string): Promise<iUser[]> {
     return data;
 }
 
-async function CryptoPricesFromApi() {
+async function CryptoPricesFromApi(): Promise<iCryptoPrices> {
     const response = await axios.get('https://api.kucoin.com/api/v1/market/allTickers');
 
     return response.data.data;
 }
 
-async function saveCryptoPricesDB() {
+async function saveCryptoPricesDB(): Promise<void> {
     const { time, ticker } = await CryptoPricesFromApi();
     const client = await pool2.connect();
+    await saveHistoryPrice();
 
     try {
         await client.query('BEGIN');
 
-        const data = ticker.map(async (el) => {
+        ticker.forEach(async (el) => {
             const { symbol, last } = el;
 
             const sql = `INSERT INTO crypto_prices
                 (symbol, last_price, timestamp) 
-                VALUES ($1, $2, TO_TIMESTAMP($3 / 1000.0)) 
+                VALUES ($1, $2, TO_TIMESTAMP($3 / 1000.0) 
                 RETURNING *`;
 
             await client.query(sql, [symbol, last, time]);
@@ -62,21 +67,21 @@ async function saveCryptoPricesDB() {
         await client.release();
 
         console.log('Crypto prices saved successfully');
-        return data;
-    } catch (error) {
+    } catch (error: any) {
         await client.query('ROLLBACK');
         console.error('Error saving crypto prices:', error);
     }
 }
 
-async function updateCryptoPricesDB() {
+async function updateCryptoPricesDB(): Promise<void> {
     const { time, ticker } = await CryptoPricesFromApi();
     const client = await pool2.connect();
+    await saveHistoryPrice();
 
     try {
         await client.query('BEGIN');
 
-        const data = ticker.map(async (el) => {
+        ticker.forEach(async (el) => {
             const { symbol, last } = el;
 
             const sql = `UPDATE crypto_prices
@@ -91,16 +96,14 @@ async function updateCryptoPricesDB() {
         await client.release()
 
         console.log('Crypto Price update successfully');
-        return data
     } catch (error) {
         await client.query('ROLLBACK')
         console.error('Error update crypto prices:', error);
     }
 }
 
-async function getCryptoPriceDB() {
+async function getCryptoPriceDB(): Promise<iPostgresDB[]> {
     const client = await pool2.connect();
-    await updateCryptoPricesDB()
     try {
         await client.query('BEGIN');
 
@@ -117,42 +120,44 @@ async function getCryptoPriceDB() {
     }
 }
 
-async function getCryptoPriceByIdDB(id, start, end) {
-    const client = await pool2.connect();
-    try {
-        await client.query('BEGIN');
+async function getCryptoPriceByIdDB<T>(id: T, start: T, end: T) {
+    const filteredByTime = historyPrice.filter((el) => start <= el.time <= end)
+    // await saveHistoryPrice();
 
-        const sql = `SELECT * FROM crypto_prices
-        WHERE id = $1 
-        AND timestamp >= $2
-        AND timestamp <= $3
-        ORDER BY id`;
-        const { rows } = await client.query(sql, [id, start, end]);
+    
 
-        console.log(rows);
-
-        const priceHistory = rows.map(row => {
-            return { price: row.price, timestamp: row.timestamp };
-        });
-
-        await client.query('COMMIT');
-        await client.release()
-
-        return priceHistory
-    } catch (error: any) {
-        await client.query('ROLLBACK');
-        console.error('Error can not GET crypto prices:', error);
-        return [];
-    }
+    return historyPrice
 }
 
+async function saveHistoryPrice() {
+    const { time, ticker } = await CryptoPricesFromApi();
 
+    const maped = ticker.map(el => { return { "symbol": el.symbol, "price": el.last } })
 
+    historyPrice.push({
+        'time': new Date(time),
+        'history': [...maped]
+    })
 
+    fs.writeFileSync('./storage/storage.json', JSON.stringify(historyPrice));
+    console.log('History successfully');
+};
 
+cron.schedule('*/60 * * * *', async () => {
+    try {
+        const data = await getCryptoPriceDB();
 
+        if (!data.length) {
+            await saveCryptoPricesDB();
+        } else {
+            await updateCryptoPricesDB();
+        }
 
-
+        console.log('Cron-job completed successfully.');
+    } catch (error) {
+        console.error('Error occurred during cron-job:', error);
+    }
+});
 
 export {
     createUserDB,
