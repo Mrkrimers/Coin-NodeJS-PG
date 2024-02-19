@@ -34,6 +34,8 @@ async function getCryptoPriceById<T>(id: T, start: T, end: T) {
     return await getCryptoPriceByIdDB(id, start, end);
 }
 
+
+
 export {
     createUser,
     authorizationUser,

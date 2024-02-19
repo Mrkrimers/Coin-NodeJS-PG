@@ -1,21 +1,19 @@
 import { Pool } from 'pg';
-import * as dotenv from 'dotenv';
-dotenv.config();
 
 const pool = new Pool({
-    password: process.env.DB_PWD,
-    port: process.env.DB_PORT,
-    host: process.env.DB_HOST,
-    user: process.env.DB_USER,
-    database: process.env.DATABASEFIRST
+    password: `159alex951`,
+    host: `localhost`,
+    user: `postgres`,
+    port: 5432,
+    database: `EducationPlatform`
 })
 
 const pool2 = new Pool({
-    password: process.env.DB_PWD,
-    port: process.env.DB_PORT,
-    host: process.env.DB_HOST,
-    user: process.env.DB_USER,
-    database: process.env.DATABASESECOND
+    password: `159alex951`,
+    host: `localhost`,
+    user: `postgres`,
+    port: 5432,
+    database: `testcoin`
 })
 
 export {
