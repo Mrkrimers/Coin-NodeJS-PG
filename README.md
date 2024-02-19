@@ -19,17 +19,15 @@
 3. Установить зависимости: npm install
 4. В директории server cоздать файл с названием .env
 5. После создания файла .env заполнить его следующими данными:
-| Переменная     | Значение                    |
-| -------------- | --------------------------- |
-| PORT           | 3001                        |
-| DB_PWD         | (ваш пароль для postgres)  |
-| DB_PORT        | 5432                        |
-| DB_HOST        | localhost                   |
-| DB_USER        | postgres                    |
-| DATABASEFIRST  | EducationPlatform           |
-| DATABASESECOND | testcoin                    |
-6. Сервер подразумевает что уже созданы две базы данных (EducationPlatform и testcoin)
-7. Если БД не созданы необходимо их создать в программе pgAdmin с названием "EducationPlatform" для первой БД и "testcoin" для второй БД.
+   PORT = 3001
+   DB_PWD = 159alex951
+   DB_PORT = 5432
+   DB_HOST = localhost
+   DB_USER = postgres
+   DATABASEFIRST = EducationPlatform
+   DATABASESECOND = testcoin
+7. Сервер подразумевает что уже созданы две базы данных (EducationPlatform и testcoin)
+8. Если БД не созданы необходимо их создать в программе pgAdmin с названием "EducationPlatform" для первой БД и "testcoin" для второй БД.
    * После создания БД "EducationPlatform" необходимо добавить таблицу используя команду 
 CREATE TABLE users (
 	id SERIAL PRIMARY KEY,
