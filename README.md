@@ -20,7 +20,7 @@
 4. В директории server cоздать файл с названием .env
 5. После создания файла .env заполнить его следующими данными:
    PORT = 3001
-   DB_PWD = 159alex951
+   DB_PWD = (ваш пароль от postgres)
    DB_PORT = 5432
    DB_HOST = localhost
    DB_USER = postgres
