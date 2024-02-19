@@ -152,7 +152,7 @@ async function saveHistoryPrice(): Promise<void> {
     console.log('History successfully');
 };
 
-cron.schedule('*/5 * * * *', async () => {
+cron.schedule('*/1 * * * *', async () => {
     try {
         const data = await getCryptoPriceDB();
 

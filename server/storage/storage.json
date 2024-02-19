@@ -1,1 +1,6267 @@
-[]
+[
+    {
+        "time": "2024-02-19T10:10:03.006Z",
+        "history": [
+            {
+                "id": 2,
+                "symbol": "MNDE-USDT",
+                "price": "0.2591"
+            },
+            {
+                "id": 3,
+                "symbol": "NKN-USDT",
+                "price": "0.127691"
+            },
+            {
+                "id": 4,
+                "symbol": "LOOM-BTC",
+                "price": "0.000001947"
+            },
+            {
+                "id": 5,
+                "symbol": "GEM-USDT",
+                "price": "0.003848"
+            },
+            {
+                "id": 6,
+                "symbol": "LTC3L-USDT",
+                "price": "0.00010926"
+            },
+            {
+                "id": 7,
+                "symbol": "OAS-USDT",
+                "price": "0.12694"
+            },
+            {
+                "id": 8,
+                "symbol": "NEO-BTC",
+                "price": "0.0002462"
+            },
+            {
+                "id": 9,
+                "symbol": "KNC-USDT",
+                "price": "0.6637"
+            },
+            {
+                "id": 10,
+                "symbol": "LYM-USDT",
+                "price": "0.0027217"
+            },
+            {
+                "id": 11,
+                "symbol": "NIM-ETH",
+                "price": "0.0000005583"
+            },
+            {
+                "id": 12,
+                "symbol": "ID3S-USDT",
+                "price": "0.4097"
+            },
+            {
+                "id": 13,
+                "symbol": "HAI-USDT",
+                "price": "0.0425"
+            },
+            {
+                "id": 14,
+                "symbol": "PDEX-USDT",
+                "price": "1.1785"
+            },
+            {
+                "id": 15,
+                "symbol": "HTR-BTC",
+                "price": "0.00000127"
+            },
+            {
+                "id": 16,
+                "symbol": "FLAME-USDT",
+                "price": "0.04847"
+            },
+            {
+                "id": 17,
+                "symbol": "WLDUP-USDT",
+                "price": "13.319642"
+            },
+            {
+                "id": 18,
+                "symbol": "EPX-USDT",
+                "price": "0.0002413"
+            },
+            {
+                "id": 19,
+                "symbol": "PUNDIX-BTC",
+                "price": "0.00000871"
+            },
+            {
+                "id": 20,
+                "symbol": "AOG-USDT",
+                "price": "0.008122"
+            },
+            {
+                "id": 21,
+                "symbol": "VET-BTC",
+                "price": "0.000000856"
+            },
+            {
+                "id": 22,
+                "symbol": "ATOM3L-USDT",
+                "price": "3.0363"
+            },
+            {
+                "id": 23,
+                "symbol": "TWT-BTC",
+                "price": "0.00002536"
+            },
+            {
+                "id": 24,
+                "symbol": "AGLD-USDT",
+                "price": "1.4025"
+            },
+            {
+                "id": 25,
+                "symbol": "KAI-ETH",
+                "price": "0.000002055"
+            },
+            {
+                "id": 26,
+                "symbol": "YLD-USDT",
+                "price": "0.059874"
+            },
+            {
+                "id": 27,
+                "symbol": "COTI-BTC",
+                "price": "0.00000186"
+            },
+            {
+                "id": 28,
+                "symbol": "CWS-USDT",
+                "price": "0.6394"
+            },
+            {
+                "id": 29,
+                "symbol": "NTRN-USDT",
+                "price": "1.7318"
+            },
+            {
+                "id": 30,
+                "symbol": "SENSO-USDT",
+                "price": "0.084275"
+            },
+            {
+                "id": 31,
+                "symbol": "BONK-USDT",
+                "price": "0.000013017"
+            },
+            {
+                "id": 32,
+                "symbol": "TRBUP-USDT",
+                "price": "0.27447"
+            },
+            {
+                "id": 33,
+                "symbol": "ALICE-USDT",
+                "price": "1.368"
+            },
+            {
+                "id": 34,
+                "symbol": "VOLT-USDT",
+                "price": "0.000000427"
+            },
+            {
+                "id": 35,
+                "symbol": "SYS-BTC",
+                "price": "0.000002638"
+            },
+            {
+                "id": 36,
+                "symbol": "BULL-USDT",
+                "price": "0.0038"
+            },
+            {
+                "id": 37,
+                "symbol": "SEAM-USDT",
+                "price": "3.855"
+            },
+            {
+                "id": 38,
+                "symbol": "INJUP-USDT",
+                "price": "26.9296"
+            },
+            {
+                "id": 39,
+                "symbol": "GTT-USDT",
+                "price": "0.011985"
+            },
+            {
+                "id": 40,
+                "symbol": "BOSON-ETH",
+                "price": "0.0000838"
+            },
+            {
+                "id": 41,
+                "symbol": "ROOBEE-BTC",
+                "price": "0.0000000265"
+            },
+            {
+                "id": 42,
+                "symbol": "SWASH-USDT",
+                "price": "0.01374"
+            },
+            {
+                "id": 43,
+                "symbol": "XEC-USDT",
+                "price": "0.00003402"
+            },
+            {
+                "id": 44,
+                "symbol": "BCH-USDC",
+                "price": "270.07"
+            },
+            {
+                "id": 45,
+                "symbol": "ATOM3S-USDT",
+                "price": "0.000555"
+            },
+            {
+                "id": 46,
+                "symbol": "LINA-USDT",
+                "price": "0.009398"
+            },
+            {
+                "id": 47,
+                "symbol": "ETC-USDT",
+                "price": "26.771"
+            },
+            {
+                "id": 48,
+                "symbol": "RUNE-USDT",
+                "price": "5.5149"
+            },
+            {
+                "id": 49,
+                "symbol": "MPLX-USDT",
+                "price": "0.24167"
+            },
+            {
+                "id": 50,
+                "symbol": "TRAC-BTC",
+                "price": "0.0000159"
+            },
+            {
+                "id": 51,
+                "symbol": "ASTR-USDT",
+                "price": "0.17641"
+            },
+            {
+                "id": 52,
+                "symbol": "HYDRA-USDT",
+                "price": "0.5473"
+            },
+            {
+                "id": 53,
+                "symbol": "CSIX-ETH",
+                "price": "0.000026774"
+            },
+            {
+                "id": 54,
+                "symbol": "BCH-USDT",
+                "price": "270.13"
+            },
+            {
+                "id": 55,
+                "symbol": "XDB-BTC",
+                "price": "0.0000000104"
+            },
+            {
+                "id": 56,
+                "symbol": "EOS3L-USDT",
+                "price": "0.010785"
+            },
+            {
+                "id": 57,
+                "symbol": "ETC-USDC",
+                "price": "26.5282"
+            },
+            {
+                "id": 58,
+                "symbol": "RUNE-USDC",
+                "price": "5.5472"
+            },
+            {
+                "id": 59,
+                "symbol": "HYVE-BTC",
+                "price": "0.00000063"
+            },
+            {
+                "id": 60,
+                "symbol": "KAVA-USDT",
+                "price": "0.7751"
+            },
+            {
+                "id": 61,
+                "symbol": "GLQ-USDT",
+                "price": "0.048217"
+            },
+            {
+                "id": 62,
+                "symbol": "BDX-BTC",
+                "price": "0.000000804"
+            },
+            {
+                "id": 63,
+                "symbol": "ETH-DAI",
+                "price": "2910.18"
+            },
+            {
+                "id": 64,
+                "symbol": "VSYS-USDT",
+                "price": "0.001274"
+            },
+            {
+                "id": 65,
+                "symbol": "REQ-BTC",
+                "price": "0.000002057"
+            },
+            {
+                "id": 66,
+                "symbol": "RNDRDOWN-USDT",
+                "price": "0.001098"
+            },
+            {
+                "id": 67,
+                "symbol": "APT-USDT",
+                "price": "9.896"
+            },
+            {
+                "id": 68,
+                "symbol": "GAS-USDT",
+                "price": "6.4846"
+            },
+            {
+                "id": 69,
+                "symbol": "TRX-USDT",
+                "price": "0.135392"
+            },
+            {
+                "id": 70,
+                "symbol": "SEIDOWN-USDT",
+                "price": "2.594"
+            },
+            {
+                "id": 71,
+                "symbol": "CELO-USDT",
+                "price": "0.7765"
+            },
+            {
+                "id": 72,
+                "symbol": "NEO-KCS",
+                "price": "1.217"
+            },
+            {
+                "id": 73,
+                "symbol": "ENJ-BTC",
+                "price": "0.00000645"
+            },
+            {
+                "id": 74,
+                "symbol": "VET-KCS",
+                "price": "0.004233"
+            },
+            {
+                "id": 75,
+                "symbol": "SAND-USDT",
+                "price": "0.51075"
+            },
+            {
+                "id": 76,
+                "symbol": "HIFRIENDS-USDT",
+                "price": "0.000821"
+            },
+            {
+                "id": 77,
+                "symbol": "FIDA-USDT",
+                "price": "0.3387"
+            },
+            {
+                "id": 78,
+                "symbol": "DMAIL-USDT",
+                "price": "0.713"
+            },
+            {
+                "id": 79,
+                "symbol": "STRIKE-BTC",
+                "price": "0.00023395"
+            },
+            {
+                "id": 80,
+                "symbol": "KLAY-USDT",
+                "price": "0.2289"
+            },
+            {
+                "id": 81,
+                "symbol": "T-USDT",
+                "price": "0.02948"
+            },
+            {
+                "id": 82,
+                "symbol": "SUN-USDT",
+                "price": "0.0089766"
+            },
+            {
+                "id": 83,
+                "symbol": "PUSH-BTC",
+                "price": "0.00000427"
+            },
+            {
+                "id": 84,
+                "symbol": "PERP-BTC",
+                "price": "0.00002578"
+            },
+            {
+                "id": 85,
+                "symbol": "DATA-USDT",
+                "price": "0.06718"
+            },
+            {
+                "id": 86,
+                "symbol": "STORE-ETH",
+                "price": "0.0000115979"
+            },
+            {
+                "id": 87,
+                "symbol": "ID3L-USDT",
+                "price": "0.171606"
+            },
+            {
+                "id": 88,
+                "symbol": "KLAY-BTC",
+                "price": "0.000004407"
+            },
+            {
+                "id": 89,
+                "symbol": "NGL-BTC",
+                "price": "0.000002206"
+            },
+            {
+                "id": 90,
+                "symbol": "RAY-USDT",
+                "price": "1.1038"
+            },
+            {
+                "id": 91,
+                "symbol": "CTC-BTC",
+                "price": "0.00001015"
+            },
+            {
+                "id": 92,
+                "symbol": "LABS-USDT",
+                "price": "0.0003412"
+            },
+            {
+                "id": 93,
+                "symbol": "ETC-ETH",
+                "price": "0.009191"
+            },
+            {
+                "id": 94,
+                "symbol": "XMR-ETH",
+                "price": "0.04125"
+            },
+            {
+                "id": 95,
+                "symbol": "BOND-USDT",
+                "price": "3.694"
+            },
+            {
+                "id": 96,
+                "symbol": "PIXEL-USDT",
+                "price": "0.88005"
+            },
+            {
+                "id": 97,
+                "symbol": "LTC3S-USDT",
+                "price": "0.005386"
+            },
+            {
+                "id": 98,
+                "symbol": "DPET-USDT",
+                "price": "0.04502"
+            },
+            {
+                "id": 99,
+                "symbol": "TARA-USDT",
+                "price": "0.013915"
+            },
+            {
+                "id": 100,
+                "symbol": "SCRT-BTC",
+                "price": "0.0000084"
+            },
+            {
+                "id": 101,
+                "symbol": "LDO-USDT",
+                "price": "3.314"
+            },
+            {
+                "id": 102,
+                "symbol": "RLC-BTC",
+                "price": "0.00006533"
+            },
+            {
+                "id": 103,
+                "symbol": "MATIC-BTC",
+                "price": "0.00001929"
+            },
+            {
+                "id": 104,
+                "symbol": "ALICE-ETH",
+                "price": "0.0004741"
+            },
+            {
+                "id": 105,
+                "symbol": "NUM-USDT",
+                "price": "0.05918"
+            },
+            {
+                "id": 106,
+                "symbol": "LDO-USDC",
+                "price": "3.3168"
+            },
+            {
+                "id": 107,
+                "symbol": "NMR-USDT",
+                "price": "35.921"
+            },
+            {
+                "id": 108,
+                "symbol": "PYTHUP-USDT",
+                "price": "4.4921"
+            },
+            {
+                "id": 109,
+                "symbol": "TON-USDT",
+                "price": "2.2486"
+            },
+            {
+                "id": 110,
+                "symbol": "CFX-ETH",
+                "price": "0.00008224"
+            },
+            {
+                "id": 111,
+                "symbol": "UTK-USDT",
+                "price": "0.08503"
+            },
+            {
+                "id": 112,
+                "symbol": "WAX-BTC",
+                "price": "0.000001162"
+            },
+            {
+                "id": 113,
+                "symbol": "DOGE-USDC",
+                "price": "0.08652"
+            },
+            {
+                "id": 114,
+                "symbol": "CWAR-USDT",
+                "price": "0.0202"
+            },
+            {
+                "id": 115,
+                "symbol": "AAVE-USDT",
+                "price": "96.444"
+            },
+            {
+                "id": 116,
+                "symbol": "EWT-KCS",
+                "price": "0.243"
+            },
+            {
+                "id": 117,
+                "symbol": "HIOD-USDT",
+                "price": "0.001214"
+            },
+            {
+                "id": 118,
+                "symbol": "AAVE3S-USDT",
+                "price": "0.00013462"
+            },
+            {
+                "id": 119,
+                "symbol": "HIGAZERS-USDT",
+                "price": "0.01842"
+            },
+            {
+                "id": 120,
+                "symbol": "CREDI-USDT",
+                "price": "0.0072506"
+            },
+            {
+                "id": 121,
+                "symbol": "MNT-USDT",
+                "price": "0.785"
+            },
+            {
+                "id": 122,
+                "symbol": "BTC3L-USDT",
+                "price": "0.008465"
+            },
+            {
+                "id": 123,
+                "symbol": "TRB-USDT",
+                "price": "125.51"
+            },
+            {
+                "id": 124,
+                "symbol": "ELA-USDT",
+                "price": "4.2351"
+            },
+            {
+                "id": 125,
+                "symbol": "DOGE-USDT",
+                "price": "0.08651"
+            },
+            {
+                "id": 126,
+                "symbol": "TLM-BTC",
+                "price": "0.0000003246"
+            },
+            {
+                "id": 127,
+                "symbol": "ZEE-USDT",
+                "price": "0.02161"
+            },
+            {
+                "id": 128,
+                "symbol": "UOS-BTC",
+                "price": "0.000003464"
+            },
+            {
+                "id": 129,
+                "symbol": "LOOM-USDT",
+                "price": "0.10189"
+            },
+            {
+                "id": 130,
+                "symbol": "SOUL-ETH",
+                "price": "0.000053"
+            },
+            {
+                "id": 131,
+                "symbol": "COQ-USDT",
+                "price": "0.000001808"
+            },
+            {
+                "id": 132,
+                "symbol": "BICO-USDT",
+                "price": "0.445"
+            },
+            {
+                "id": 133,
+                "symbol": "PRE-USDT",
+                "price": "0.025718"
+            },
+            {
+                "id": 134,
+                "symbol": "SEI-USDT",
+                "price": "0.9666"
+            },
+            {
+                "id": 135,
+                "symbol": "KCS-ETH",
+                "price": "0.003611"
+            },
+            {
+                "id": 136,
+                "symbol": "XDC-BTC",
+                "price": "0.000000795"
+            },
+            {
+                "id": 137,
+                "symbol": "SCLP-BTC",
+                "price": "0.000006242"
+            },
+            {
+                "id": 138,
+                "symbol": "ENS-USDT",
+                "price": "23.781"
+            },
+            {
+                "id": 139,
+                "symbol": "DATA-BTC",
+                "price": "0.000001288"
+            },
+            {
+                "id": 140,
+                "symbol": "DGB-ETH",
+                "price": "0.00000321"
+            },
+            {
+                "id": 141,
+                "symbol": "CTI-USDT",
+                "price": "0.029907"
+            },
+            {
+                "id": 142,
+                "symbol": "MMM-USDT",
+                "price": "0.001218"
+            },
+            {
+                "id": 143,
+                "symbol": "LPT-USDT",
+                "price": "17.3171"
+            },
+            {
+                "id": 144,
+                "symbol": "TURBOS-USDT",
+                "price": "0.00383"
+            },
+            {
+                "id": 145,
+                "symbol": "XEM-BTC",
+                "price": "0.000000734"
+            },
+            {
+                "id": 146,
+                "symbol": "CHZ-BTC",
+                "price": "0.0000021895"
+            },
+            {
+                "id": 147,
+                "symbol": "TEL-BTC",
+                "price": "0.00000002626"
+            },
+            {
+                "id": 148,
+                "symbol": "ROOT-USDT",
+                "price": "0.082861"
+            },
+            {
+                "id": 149,
+                "symbol": "MIND-USDT",
+                "price": "0.003574"
+            },
+            {
+                "id": 150,
+                "symbol": "UNFIUP-USDT",
+                "price": "0.950539"
+            },
+            {
+                "id": 151,
+                "symbol": "XNL-USDT",
+                "price": "0.02472"
+            },
+            {
+                "id": 152,
+                "symbol": "PMON-USDT",
+                "price": "0.5112"
+            },
+            {
+                "id": 153,
+                "symbol": "ETH-TUSD",
+                "price": "2979.02"
+            },
+            {
+                "id": 154,
+                "symbol": "CTSI-BTC",
+                "price": "0.00000576"
+            },
+            {
+                "id": 155,
+                "symbol": "EOS3S-USDT",
+                "price": "0.02569"
+            },
+            {
+                "id": 156,
+                "symbol": "TLOS-USDT",
+                "price": "0.37894"
+            },
+            {
+                "id": 157,
+                "symbol": "INJDOWN-USDT",
+                "price": "0.001239"
+            },
+            {
+                "id": 158,
+                "symbol": "USDD-USDC",
+                "price": "0.9977"
+            },
+            {
+                "id": 159,
+                "symbol": "ALGO-ETH",
+                "price": "0.00006854"
+            },
+            {
+                "id": 160,
+                "symbol": "KAGI-USDT",
+                "price": "0.13969"
+            },
+            {
+                "id": 161,
+                "symbol": "NAVI-USDT",
+                "price": "0.11659"
+            },
+            {
+                "id": 162,
+                "symbol": "ARB-USDT",
+                "price": "2.069"
+            },
+            {
+                "id": 163,
+                "symbol": "JAM-ETH",
+                "price": "0.000000475"
+            },
+            {
+                "id": 164,
+                "symbol": "WHALE-USDT",
+                "price": "0.816653"
+            },
+            {
+                "id": 165,
+                "symbol": "AIEPK-USDT",
+                "price": "0.007246"
+            },
+            {
+                "id": 166,
+                "symbol": "VEMP-USDC",
+                "price": "0.011415"
+            },
+            {
+                "id": 167,
+                "symbol": "USDD-USDT",
+                "price": "0.997"
+            },
+            {
+                "id": 168,
+                "symbol": "WBTC-USDT",
+                "price": "52347.69"
+            },
+            {
+                "id": 169,
+                "symbol": "POLK-BTC",
+                "price": "0.000000769"
+            },
+            {
+                "id": 170,
+                "symbol": "MONI-USDT",
+                "price": "0.01965"
+            },
+            {
+                "id": 171,
+                "symbol": "ETH3S-USDT",
+                "price": "0.00002394"
+            },
+            {
+                "id": 172,
+                "symbol": "KLUB-USDT",
+                "price": "0.00455"
+            },
+            {
+                "id": 173,
+                "symbol": "WEST-BTC",
+                "price": "0.0000002646"
+            },
+            {
+                "id": 174,
+                "symbol": "NEO-USDT",
+                "price": "12.877"
+            },
+            {
+                "id": 175,
+                "symbol": "SD-USDT",
+                "price": "0.97"
+            },
+            {
+                "id": 176,
+                "symbol": "MM-USDT",
+                "price": "0.0002213"
+            },
+            {
+                "id": 177,
+                "symbol": "EWT-BTC",
+                "price": "0.00004919"
+            },
+            {
+                "id": 178,
+                "symbol": "BTC3S-USDT",
+                "price": "0.010102"
+            },
+            {
+                "id": 179,
+                "symbol": "EOS-USDC",
+                "price": "0.781"
+            },
+            {
+                "id": 180,
+                "symbol": "MANA-ETH",
+                "price": "0.0001736"
+            },
+            {
+                "id": 181,
+                "symbol": "DCR-BTC",
+                "price": "0.00034689"
+            },
+            {
+                "id": 182,
+                "symbol": "LMR-BTC",
+                "price": "0.00000052"
+            },
+            {
+                "id": 183,
+                "symbol": "INFRA-USDT",
+                "price": "2.028"
+            },
+            {
+                "id": 184,
+                "symbol": "CHZ-USDT",
+                "price": "0.1149"
+            },
+            {
+                "id": 185,
+                "symbol": "OXT-BTC",
+                "price": "0.000002209"
+            },
+            {
+                "id": 186,
+                "symbol": "USDC-USDT",
+                "price": "0.9997"
+            },
+            {
+                "id": 187,
+                "symbol": "PSL-USDT",
+                "price": "0.0003868"
+            },
+            {
+                "id": 188,
+                "symbol": "DOT-USDT",
+                "price": "7.8064"
+            },
+            {
+                "id": 189,
+                "symbol": "AZERO-USDT",
+                "price": "1.2622"
+            },
+            {
+                "id": 190,
+                "symbol": "BNB-KCS",
+                "price": "33.4236"
+            },
+            {
+                "id": 191,
+                "symbol": "RFOX-USDT",
+                "price": "0.011861"
+            },
+            {
+                "id": 192,
+                "symbol": "RFD-USDT",
+                "price": "0.000005814"
+            },
+            {
+                "id": 193,
+                "symbol": "POLYX-USDT",
+                "price": "0.1888"
+            },
+            {
+                "id": 194,
+                "symbol": "UNI3L-USDT",
+                "price": "3.42913554"
+            },
+            {
+                "id": 195,
+                "symbol": "GAFI-USDT",
+                "price": "8.594"
+            },
+            {
+                "id": 196,
+                "symbol": "USDT-GBP",
+                "price": "0.777"
+            },
+            {
+                "id": 197,
+                "symbol": "EOS-USDT",
+                "price": "0.7806"
+            },
+            {
+                "id": 198,
+                "symbol": "DOT-USDC",
+                "price": "7.778"
+            },
+            {
+                "id": 199,
+                "symbol": "UOS-USDT",
+                "price": "0.18125"
+            },
+            {
+                "id": 200,
+                "symbol": "GMX-USDT",
+                "price": "48.345"
+            },
+            {
+                "id": 201,
+                "symbol": "KING-USDT",
+                "price": "0.002481"
+            },
+            {
+                "id": 202,
+                "symbol": "XCN-USDT",
+                "price": "0.0017216"
+            },
+            {
+                "id": 203,
+                "symbol": "NOIA-BTC",
+                "price": "0.000003255"
+            },
+            {
+                "id": 204,
+                "symbol": "KSM-BTC",
+                "price": "0.0009078"
+            },
+            {
+                "id": 205,
+                "symbol": "GHX-USDT",
+                "price": "0.054474"
+            },
+            {
+                "id": 206,
+                "symbol": "FTG-USDT",
+                "price": "0.003303"
+            },
+            {
+                "id": 207,
+                "symbol": "POLS-USDT",
+                "price": "0.9109"
+            },
+            {
+                "id": 208,
+                "symbol": "HISAND33-USDT",
+                "price": "0.00645"
+            },
+            {
+                "id": 209,
+                "symbol": "IOST-USDT",
+                "price": "0.009424"
+            },
+            {
+                "id": 210,
+                "symbol": "AMB-USDT",
+                "price": "0.00907"
+            },
+            {
+                "id": 211,
+                "symbol": "CCD-USDT",
+                "price": "0.006797"
+            },
+            {
+                "id": 212,
+                "symbol": "ETH3L-USDT",
+                "price": "0.002161"
+            },
+            {
+                "id": 213,
+                "symbol": "BTC-USDC",
+                "price": "52340"
+            },
+            {
+                "id": 214,
+                "symbol": "OUSD-USDT",
+                "price": "0.9966"
+            },
+            {
+                "id": 215,
+                "symbol": "GMEE-USDT",
+                "price": "0.037805"
+            },
+            {
+                "id": 216,
+                "symbol": "DOT3S-USDT",
+                "price": "0.011013"
+            },
+            {
+                "id": 217,
+                "symbol": "CFX2S-USDT",
+                "price": "0.083"
+            },
+            {
+                "id": 218,
+                "symbol": "ELA-BTC",
+                "price": "0.00008064"
+            },
+            {
+                "id": 219,
+                "symbol": "AA-USDT",
+                "price": "0.9281"
+            },
+            {
+                "id": 220,
+                "symbol": "HTR-USDT",
+                "price": "0.06651"
+            },
+            {
+                "id": 221,
+                "symbol": "CFG-USDT",
+                "price": "0.6411"
+            },
+            {
+                "id": 222,
+                "symbol": "ERTHA-USDT",
+                "price": "0.00179"
+            },
+            {
+                "id": 223,
+                "symbol": "FEAR-USDT",
+                "price": "0.13989"
+            },
+            {
+                "id": 224,
+                "symbol": "NGL-USDT",
+                "price": "0.11492"
+            },
+            {
+                "id": 225,
+                "symbol": "CSIX-USDT",
+                "price": "0.07723"
+            },
+            {
+                "id": 226,
+                "symbol": "ICX-ETH",
+                "price": "0.0000851"
+            },
+            {
+                "id": 227,
+                "symbol": "BTC-USDT",
+                "price": "52338.2"
+            },
+            {
+                "id": 228,
+                "symbol": "RNDR-BTC",
+                "price": "0.00012147"
+            },
+            {
+                "id": 229,
+                "symbol": "AAVE3L-USDT",
+                "price": "1.61251931"
+            },
+            {
+                "id": 230,
+                "symbol": "PLU-USDT",
+                "price": "4.446"
+            },
+            {
+                "id": 231,
+                "symbol": "SUSHI3S-USDT",
+                "price": "0.00019635"
+            },
+            {
+                "id": 232,
+                "symbol": "OCEAN-USDT",
+                "price": "0.7737"
+            },
+            {
+                "id": 233,
+                "symbol": "CETUS-USDT",
+                "price": "0.12516"
+            },
+            {
+                "id": 234,
+                "symbol": "TURT-USDT",
+                "price": "0.01892"
+            },
+            {
+                "id": 235,
+                "symbol": "LAYER-BTC",
+                "price": "0.000001188"
+            },
+            {
+                "id": 236,
+                "symbol": "ARB3S-USDT",
+                "price": "0.0375"
+            },
+            {
+                "id": 237,
+                "symbol": "WEN-USDT",
+                "price": "0.0000911"
+            },
+            {
+                "id": 238,
+                "symbol": "AVAX-BTC",
+                "price": "0.00076392"
+            },
+            {
+                "id": 239,
+                "symbol": "HIVALHALLA-USDT",
+                "price": "0.0003632"
+            },
+            {
+                "id": 240,
+                "symbol": "AMB-ETH",
+                "price": "0.000003122"
+            },
+            {
+                "id": 241,
+                "symbol": "TRB-BTC",
+                "price": "0.0024839"
+            },
+            {
+                "id": 242,
+                "symbol": "AIPAD-USDT",
+                "price": "0.12815"
+            },
+            {
+                "id": 243,
+                "symbol": "APE-USDT",
+                "price": "1.7007"
+            },
+            {
+                "id": 244,
+                "symbol": "ERG-USDT",
+                "price": "1.4561"
+            },
+            {
+                "id": 245,
+                "symbol": "ZETA-USDT",
+                "price": "2.5061"
+            },
+            {
+                "id": 246,
+                "symbol": "ZBC-USDT",
+                "price": "0.00963"
+            },
+            {
+                "id": 247,
+                "symbol": "DAG-BTC",
+                "price": "0.0000009895"
+            },
+            {
+                "id": 248,
+                "symbol": "REVV-USDT",
+                "price": "0.013155"
+            },
+            {
+                "id": 249,
+                "symbol": "GST-USDT",
+                "price": "0.01201"
+            },
+            {
+                "id": 250,
+                "symbol": "LOOKS-USDT",
+                "price": "0.082"
+            },
+            {
+                "id": 251,
+                "symbol": "APE-USDC",
+                "price": "1.701"
+            },
+            {
+                "id": 252,
+                "symbol": "ATOM-BTC",
+                "price": "0.00020337"
+            },
+            {
+                "id": 253,
+                "symbol": "PYUSD-USDT",
+                "price": "0.9985"
+            },
+            {
+                "id": 254,
+                "symbol": "ADA-USDC",
+                "price": "0.628786"
+            },
+            {
+                "id": 255,
+                "symbol": "PROM-USDT",
+                "price": "10.519"
+            },
+            {
+                "id": 256,
+                "symbol": "SNX-BTC",
+                "price": "0.00007296"
+            },
+            {
+                "id": 257,
+                "symbol": "ANT-BTC",
+                "price": "0.00014111"
+            },
+            {
+                "id": 258,
+                "symbol": "EGO-USDT",
+                "price": "0.03712"
+            },
+            {
+                "id": 259,
+                "symbol": "ID-USDT",
+                "price": "0.61871"
+            },
+            {
+                "id": 260,
+                "symbol": "ARKER-USDT",
+                "price": "0.0010752"
+            },
+            {
+                "id": 261,
+                "symbol": "BNB-BTC",
+                "price": "0.0067422"
+            },
+            {
+                "id": 262,
+                "symbol": "FTM-ETH",
+                "price": "0.0001467"
+            },
+            {
+                "id": 263,
+                "symbol": "ORCA-USDT",
+                "price": "3.95"
+            },
+            {
+                "id": 264,
+                "symbol": "HAPI-USDT",
+                "price": "27.3214"
+            },
+            {
+                "id": 265,
+                "symbol": "TIA-USDT",
+                "price": "18.72"
+            },
+            {
+                "id": 266,
+                "symbol": "PROM-BTC",
+                "price": "0.0002038"
+            },
+            {
+                "id": 267,
+                "symbol": "ADA-USDT",
+                "price": "0.63185"
+            },
+            {
+                "id": 268,
+                "symbol": "DIA-USDT",
+                "price": "0.5585"
+            },
+            {
+                "id": 269,
+                "symbol": "HIBAKC-USDT",
+                "price": "0.007425"
+            },
+            {
+                "id": 270,
+                "symbol": "HNT-USDT",
+                "price": "10.197"
+            },
+            {
+                "id": 271,
+                "symbol": "ALPHA-USDT",
+                "price": "0.12554"
+            },
+            {
+                "id": 272,
+                "symbol": "MXM-USDT",
+                "price": "0.1045"
+            },
+            {
+                "id": 273,
+                "symbol": "ZCX-BTC",
+                "price": "0.000001767"
+            },
+            {
+                "id": 274,
+                "symbol": "DPR-USDT",
+                "price": "0.014273"
+            },
+            {
+                "id": 275,
+                "symbol": "HIODBS-USDT",
+                "price": "0.002479"
+            },
+            {
+                "id": 276,
+                "symbol": "SHRAP-USDT",
+                "price": "0.30704"
+            },
+            {
+                "id": 277,
+                "symbol": "AERGO-USDT",
+                "price": "0.14307"
+            },
+            {
+                "id": 278,
+                "symbol": "SUIA-USDT",
+                "price": "0.12462"
+            },
+            {
+                "id": 279,
+                "symbol": "USDT-USDC",
+                "price": "1.00018"
+            },
+            {
+                "id": 280,
+                "symbol": "CFX-USDT",
+                "price": "0.240408"
+            },
+            {
+                "id": 281,
+                "symbol": "DOT3L-USDT",
+                "price": "0.0000892"
+            },
+            {
+                "id": 282,
+                "symbol": "OPUP-USDT",
+                "price": "10.0637"
+            },
+            {
+                "id": 283,
+                "symbol": "UTK-BTC",
+                "price": "0.000001617"
+            },
+            {
+                "id": 284,
+                "symbol": "BOLT-USDT",
+                "price": "0.003147"
+            },
+            {
+                "id": 285,
+                "symbol": "TFUEL-BTC",
+                "price": "0.000000877"
+            },
+            {
+                "id": 286,
+                "symbol": "ERN-USDT",
+                "price": "2.4711"
+            },
+            {
+                "id": 287,
+                "symbol": "PEPE-USDT",
+                "price": "0.0000012092"
+            },
+            {
+                "id": 288,
+                "symbol": "RBP-USDT",
+                "price": "0.00003439"
+            },
+            {
+                "id": 289,
+                "symbol": "KMD-USDT",
+                "price": "0.2949"
+            },
+            {
+                "id": 290,
+                "symbol": "AERGO-BTC",
+                "price": "0.000002741"
+            },
+            {
+                "id": 291,
+                "symbol": "WLDDOWN-USDT",
+                "price": "0.000305"
+            },
+            {
+                "id": 292,
+                "symbol": "ATOM-KCS",
+                "price": "1.0043"
+            },
+            {
+                "id": 293,
+                "symbol": "CAPP-BTC",
+                "price": "0.000000001627"
+            },
+            {
+                "id": 294,
+                "symbol": "EOSC-USDT",
+                "price": "0.0025388"
+            },
+            {
+                "id": 295,
+                "symbol": "SUSHI3L-USDT",
+                "price": "0.000812"
+            },
+            {
+                "id": 296,
+                "symbol": "DEXE-ETH",
+                "price": "0.001145"
+            },
+            {
+                "id": 297,
+                "symbol": "VLX-BTC",
+                "price": "0.0000003715"
+            },
+            {
+                "id": 298,
+                "symbol": "CQT-USDT",
+                "price": "0.2083"
+            },
+            {
+                "id": 299,
+                "symbol": "ISP-USDT",
+                "price": "0.0012405"
+            },
+            {
+                "id": 300,
+                "symbol": "UQC-ETH",
+                "price": "0.002754"
+            },
+            {
+                "id": 301,
+                "symbol": "MJT-KCS",
+                "price": "0.00226"
+            },
+            {
+                "id": 302,
+                "symbol": "KRL-USDT",
+                "price": "0.4416"
+            },
+            {
+                "id": 303,
+                "symbol": "AGIX-BTC",
+                "price": "0.000010598"
+            },
+            {
+                "id": 304,
+                "symbol": "ARX-USDT",
+                "price": "0.001988"
+            },
+            {
+                "id": 305,
+                "symbol": "CLV-USDT",
+                "price": "0.05907"
+            },
+            {
+                "id": 306,
+                "symbol": "MAP-USDT",
+                "price": "0.03122"
+            },
+            {
+                "id": 307,
+                "symbol": "BTT-USDT",
+                "price": "0.0000011426"
+            },
+            {
+                "id": 308,
+                "symbol": "XAI-USDT",
+                "price": "1.281"
+            },
+            {
+                "id": 309,
+                "symbol": "PUSH-USDT",
+                "price": "0.2217"
+            },
+            {
+                "id": 310,
+                "symbol": "ZEC-USDT",
+                "price": "25.279"
+            },
+            {
+                "id": 311,
+                "symbol": "IOTX-ETH",
+                "price": "0.0000221"
+            },
+            {
+                "id": 312,
+                "symbol": "SYLO-USDT",
+                "price": "0.002355"
+            },
+            {
+                "id": 313,
+                "symbol": "XTAG-USDT",
+                "price": "0.03588"
+            },
+            {
+                "id": 314,
+                "symbol": "SPA-USDT",
+                "price": "0.011312"
+            },
+            {
+                "id": 315,
+                "symbol": "GRAPE-USDT",
+                "price": "0.03396"
+            },
+            {
+                "id": 316,
+                "symbol": "ICX-USDT",
+                "price": "0.2473"
+            },
+            {
+                "id": 317,
+                "symbol": "FXS-BTC",
+                "price": "0.0001733"
+            },
+            {
+                "id": 318,
+                "symbol": "AGIX-USDT",
+                "price": "0.55529"
+            },
+            {
+                "id": 319,
+                "symbol": "TIME-BTC",
+                "price": "0.00041463"
+            },
+            {
+                "id": 320,
+                "symbol": "LSK-ETH",
+                "price": "0.0004639"
+            },
+            {
+                "id": 321,
+                "symbol": "SOLVE-USDT",
+                "price": "0.02207"
+            },
+            {
+                "id": 322,
+                "symbol": "TRBDOWN-USDT",
+                "price": "0.3945"
+            },
+            {
+                "id": 323,
+                "symbol": "VIDT-USDT",
+                "price": "0.0371"
+            },
+            {
+                "id": 324,
+                "symbol": "CFX2L-USDT",
+                "price": "0.5093"
+            },
+            {
+                "id": 325,
+                "symbol": "NAVX-USDT",
+                "price": "0.14109"
+            },
+            {
+                "id": 326,
+                "symbol": "JASMY-USDT",
+                "price": "0.00781"
+            },
+            {
+                "id": 327,
+                "symbol": "IOST-BTC",
+                "price": "0.00000018"
+            },
+            {
+                "id": 328,
+                "symbol": "WIN-USDT",
+                "price": "0.0001103"
+            },
+            {
+                "id": 329,
+                "symbol": "SXP-USDT",
+                "price": "0.3532"
+            },
+            {
+                "id": 330,
+                "symbol": "LBR-USDT",
+                "price": "0.437"
+            },
+            {
+                "id": 331,
+                "symbol": "ERN-BTC",
+                "price": "0.00004733"
+            },
+            {
+                "id": 332,
+                "symbol": "ARB3L-USDT",
+                "price": "2.5803"
+            },
+            {
+                "id": 333,
+                "symbol": "JASMY-USDC",
+                "price": "0.007254"
+            },
+            {
+                "id": 334,
+                "symbol": "SATS-USDT",
+                "price": "0.0000005447"
+            },
+            {
+                "id": 335,
+                "symbol": "TEL-USDT",
+                "price": "0.001375"
+            },
+            {
+                "id": 336,
+                "symbol": "ADA-KCS",
+                "price": "0.05966"
+            },
+            {
+                "id": 337,
+                "symbol": "LYM-ETH",
+                "price": "0.0000009445"
+            },
+            {
+                "id": 338,
+                "symbol": "AGIX-ETH",
+                "price": "0.00019071"
+            },
+            {
+                "id": 339,
+                "symbol": "JASMY3S-USDT",
+                "price": "0.001884"
+            },
+            {
+                "id": 340,
+                "symbol": "HMND-USDT",
+                "price": "0.17996"
+            },
+            {
+                "id": 341,
+                "symbol": "HEART-USDT",
+                "price": "0.015952"
+            },
+            {
+                "id": 342,
+                "symbol": "NXRA-USDT",
+                "price": "0.124304"
+            },
+            {
+                "id": 343,
+                "symbol": "AXS3S-USDT",
+                "price": "0.3153"
+            },
+            {
+                "id": 344,
+                "symbol": "FCON-USDT",
+                "price": "0.00023253"
+            },
+            {
+                "id": 345,
+                "symbol": "NYM-USDT",
+                "price": "0.2152"
+            },
+            {
+                "id": 346,
+                "symbol": "GMT3S-USDT",
+                "price": "0.00035448"
+            },
+            {
+                "id": 347,
+                "symbol": "ORAI-USDT",
+                "price": "8.295"
+            },
+            {
+                "id": 348,
+                "symbol": "GOAL-USDT",
+                "price": "0.0599"
+            },
+            {
+                "id": 349,
+                "symbol": "BMX-USDT",
+                "price": "0.213"
+            },
+            {
+                "id": 350,
+                "symbol": "STC-USDT",
+                "price": "0.003282"
+            },
+            {
+                "id": 351,
+                "symbol": "HIFIDENZA-USDT",
+                "price": "0.1128"
+            },
+            {
+                "id": 352,
+                "symbol": "GTAI-USDT",
+                "price": "2.4029"
+            },
+            {
+                "id": 353,
+                "symbol": "LTO-USDT",
+                "price": "0.09352"
+            },
+            {
+                "id": 354,
+                "symbol": "ICP-BTC",
+                "price": "0.0002709"
+            },
+            {
+                "id": 355,
+                "symbol": "ONE-BTC",
+                "price": "0.0000003664"
+            },
+            {
+                "id": 356,
+                "symbol": "MUBI-USDT",
+                "price": "0.1112"
+            },
+            {
+                "id": 357,
+                "symbol": "MJT-USDT",
+                "price": "0.02365"
+            },
+            {
+                "id": 358,
+                "symbol": "USDT-EUR",
+                "price": "0.9295"
+            },
+            {
+                "id": 359,
+                "symbol": "APE3L-USDT",
+                "price": "0.00044296"
+            },
+            {
+                "id": 360,
+                "symbol": "RPL-USDT",
+                "price": "30.6"
+            },
+            {
+                "id": 361,
+                "symbol": "REN-USDT",
+                "price": "0.06774"
+            },
+            {
+                "id": 362,
+                "symbol": "IDEA-USDT",
+                "price": "0.001949"
+            },
+            {
+                "id": 363,
+                "symbol": "BLUR-USDT",
+                "price": "0.7906"
+            },
+            {
+                "id": 364,
+                "symbol": "LUNC-USDT",
+                "price": "0.00013104"
+            },
+            {
+                "id": 365,
+                "symbol": "XRP3S-USDT",
+                "price": "0.026563"
+            },
+            {
+                "id": 366,
+                "symbol": "IOTA-BTC",
+                "price": "0.00000527"
+            },
+            {
+                "id": 367,
+                "symbol": "BCH-BTC",
+                "price": "0.005163"
+            },
+            {
+                "id": 368,
+                "symbol": "SHILL-USDT",
+                "price": "0.01002"
+            },
+            {
+                "id": 369,
+                "symbol": "SOUL-USDT",
+                "price": "0.15396"
+            },
+            {
+                "id": 370,
+                "symbol": "HBAR-BTC",
+                "price": "0.000001824"
+            },
+            {
+                "id": 371,
+                "symbol": "LUNC-USDC",
+                "price": "0.00013268"
+            },
+            {
+                "id": 372,
+                "symbol": "FTM-BTC",
+                "price": "0.00000817"
+            },
+            {
+                "id": 373,
+                "symbol": "DAG-USDT",
+                "price": "0.051808"
+            },
+            {
+                "id": 374,
+                "symbol": "SAND3S-USDT",
+                "price": "0.00020203"
+            },
+            {
+                "id": 375,
+                "symbol": "STG-USDT",
+                "price": "0.6963"
+            },
+            {
+                "id": 376,
+                "symbol": "XMR-USDT",
+                "price": "120.16"
+            },
+            {
+                "id": 377,
+                "symbol": "EVER-USDT",
+                "price": "0.05244"
+            },
+            {
+                "id": 378,
+                "symbol": "TOKO-USDT",
+                "price": "0.0015309"
+            },
+            {
+                "id": 379,
+                "symbol": "DENT-USDT",
+                "price": "0.0013085"
+            },
+            {
+                "id": 380,
+                "symbol": "ADA-BTC",
+                "price": "0.00001205"
+            },
+            {
+                "id": 381,
+                "symbol": "POLC-USDT",
+                "price": "0.012089"
+            },
+            {
+                "id": 382,
+                "symbol": "ZEN-USDT",
+                "price": "10.813"
+            },
+            {
+                "id": 383,
+                "symbol": "ACT-USDT",
+                "price": "0.001308"
+            },
+            {
+                "id": 384,
+                "symbol": "FTM-USDC",
+                "price": "0.4264"
+            },
+            {
+                "id": 385,
+                "symbol": "VAI-USDT",
+                "price": "0.177761"
+            },
+            {
+                "id": 386,
+                "symbol": "SFP-BTC",
+                "price": "0.00001472"
+            },
+            {
+                "id": 387,
+                "symbol": "PEPE2-USDT",
+                "price": "0.00000006346"
+            },
+            {
+                "id": 388,
+                "symbol": "PEPEUP-USDT",
+                "price": "0.011489"
+            },
+            {
+                "id": 389,
+                "symbol": "FTM-USDT",
+                "price": "0.42687"
+            },
+            {
+                "id": 390,
+                "symbol": "WRX-BTC",
+                "price": "0.000004999"
+            },
+            {
+                "id": 391,
+                "symbol": "ZCX-USDT",
+                "price": "0.09181"
+            },
+            {
+                "id": 392,
+                "symbol": "AXS3L-USDT",
+                "price": "0.37134485"
+            },
+            {
+                "id": 393,
+                "symbol": "BTCDOWN-USDT",
+                "price": "0.6728"
+            },
+            {
+                "id": 394,
+                "symbol": "AKRO-USDT",
+                "price": "0.0056132"
+            },
+            {
+                "id": 395,
+                "symbol": "XWG-USDT",
+                "price": "0.0013914"
+            },
+            {
+                "id": 396,
+                "symbol": "CKB-USDT",
+                "price": "0.012835"
+            },
+            {
+                "id": 397,
+                "symbol": "ONT-BTC",
+                "price": "0.00000503"
+            },
+            {
+                "id": 398,
+                "symbol": "TARA-ETH",
+                "price": "0.000004829"
+            },
+            {
+                "id": 399,
+                "symbol": "MAGIC-USDT",
+                "price": "1.399"
+            },
+            {
+                "id": 400,
+                "symbol": "SDAO-ETH",
+                "price": "0.0001664"
+            },
+            {
+                "id": 401,
+                "symbol": "BCHSV-BTC",
+                "price": "0.001492"
+            },
+            {
+                "id": 402,
+                "symbol": "H2O-USDT",
+                "price": "0.1622"
+            },
+            {
+                "id": 403,
+                "symbol": "OCEAN-ETH",
+                "price": "0.00026625"
+            },
+            {
+                "id": 404,
+                "symbol": "MTL-USDT",
+                "price": "1.6371"
+            },
+            {
+                "id": 405,
+                "symbol": "NEAR3L-USDT",
+                "price": "0.32931413"
+            },
+            {
+                "id": 406,
+                "symbol": "GAS-BTC",
+                "price": "0.000124"
+            },
+            {
+                "id": 407,
+                "symbol": "EGLD-BTC",
+                "price": "0.001156"
+            },
+            {
+                "id": 408,
+                "symbol": "NXRA-ETH",
+                "price": "0.000042006"
+            },
+            {
+                "id": 409,
+                "symbol": "KNC-BTC",
+                "price": "0.00001276"
+            },
+            {
+                "id": 410,
+                "symbol": "DYDX-USDT",
+                "price": "3.1892"
+            },
+            {
+                "id": 411,
+                "symbol": "SKEY-USDT",
+                "price": "0.0212"
+            },
+            {
+                "id": 412,
+                "symbol": "IGU-USDT",
+                "price": "0.033"
+            },
+            {
+                "id": 413,
+                "symbol": "SYN-USDT",
+                "price": "0.7784"
+            },
+            {
+                "id": 414,
+                "symbol": "XCV-USDT",
+                "price": "0.002371"
+            },
+            {
+                "id": 415,
+                "symbol": "BTC-EUR",
+                "price": "48790.77"
+            },
+            {
+                "id": 416,
+                "symbol": "1EARTH-USDT",
+                "price": "0.00198051"
+            },
+            {
+                "id": 417,
+                "symbol": "XPR-BTC",
+                "price": "0.0000000203"
+            },
+            {
+                "id": 418,
+                "symbol": "SOL3S-USDT",
+                "price": "0.0861"
+            },
+            {
+                "id": 419,
+                "symbol": "SUPER-BTC",
+                "price": "0.000023631"
+            },
+            {
+                "id": 420,
+                "symbol": "AUSD-USDT",
+                "price": "0.04994"
+            },
+            {
+                "id": 421,
+                "symbol": "DASH-BTC",
+                "price": "0.000571"
+            },
+            {
+                "id": 422,
+                "symbol": "SEIUP-USDT",
+                "price": "12.7785"
+            },
+            {
+                "id": 423,
+                "symbol": "IOTX-BTC",
+                "price": "0.000001232"
+            },
+            {
+                "id": 424,
+                "symbol": "GRT-KCS",
+                "price": "0.024992"
+            },
+            {
+                "id": 425,
+                "symbol": "MKR-BTC",
+                "price": "0.04218"
+            },
+            {
+                "id": 426,
+                "symbol": "KLV-BTC",
+                "price": "0.0000000658"
+            },
+            {
+                "id": 427,
+                "symbol": "ZRX-USDT",
+                "price": "0.3568"
+            },
+            {
+                "id": 428,
+                "symbol": "HIRENGA-USDT",
+                "price": "0.0004999"
+            },
+            {
+                "id": 429,
+                "symbol": "EOS-KCS",
+                "price": "0.07377"
+            },
+            {
+                "id": 430,
+                "symbol": "XRP3L-USDT",
+                "price": "0.00017674"
+            },
+            {
+                "id": 431,
+                "symbol": "OVR-USDT",
+                "price": "0.4813"
+            },
+            {
+                "id": 432,
+                "symbol": "REQ-USDT",
+                "price": "0.1077"
+            },
+            {
+                "id": 433,
+                "symbol": "BAX-ETH",
+                "price": "0.0000000471"
+            },
+            {
+                "id": 434,
+                "symbol": "SUKU-USDT",
+                "price": "0.05811"
+            },
+            {
+                "id": 435,
+                "symbol": "CFG-BTC",
+                "price": "0.000012586"
+            },
+            {
+                "id": 436,
+                "symbol": "DAO-USDT",
+                "price": "0.9475"
+            },
+            {
+                "id": 437,
+                "symbol": "WEST-USDT",
+                "price": "0.013828"
+            },
+            {
+                "id": 438,
+                "symbol": "NETVR-USDT",
+                "price": "0.1507"
+            },
+            {
+                "id": 439,
+                "symbol": "BOSON-USDT",
+                "price": "0.2391"
+            },
+            {
+                "id": 440,
+                "symbol": "SXP-BTC",
+                "price": "0.00000676"
+            },
+            {
+                "id": 441,
+                "symbol": "ZIL-BTC",
+                "price": "0.000000451"
+            },
+            {
+                "id": 442,
+                "symbol": "AMP-USDT",
+                "price": "0.003827"
+            },
+            {
+                "id": 443,
+                "symbol": "BEAT-USDT",
+                "price": "0.0139"
+            },
+            {
+                "id": 444,
+                "symbol": "GODS-USDT",
+                "price": "0.3141"
+            },
+            {
+                "id": 445,
+                "symbol": "XPR-USDT",
+                "price": "0.0010538"
+            },
+            {
+                "id": 446,
+                "symbol": "DOVI-USDT",
+                "price": "0.38311"
+            },
+            {
+                "id": 447,
+                "symbol": "ETH-BTC",
+                "price": "0.055658"
+            },
+            {
+                "id": 448,
+                "symbol": "TRIAS-BTC",
+                "price": "0.00032542"
+            },
+            {
+                "id": 449,
+                "symbol": "AUCTION-USDT",
+                "price": "32.51"
+            },
+            {
+                "id": 450,
+                "symbol": "USDD-TRX",
+                "price": "7.407"
+            },
+            {
+                "id": 451,
+                "symbol": "QI-BTC",
+                "price": "0.0000003445"
+            },
+            {
+                "id": 452,
+                "symbol": "NEAR3S-USDT",
+                "price": "0.00005652"
+            },
+            {
+                "id": 453,
+                "symbol": "OTK-USDT",
+                "price": "0.084124"
+            },
+            {
+                "id": 454,
+                "symbol": "DASH-KCS",
+                "price": "2.8295"
+            },
+            {
+                "id": 455,
+                "symbol": "JAM-USDT",
+                "price": "0.001386"
+            },
+            {
+                "id": 456,
+                "symbol": "ORBS-USDT",
+                "price": "0.03791"
+            },
+            {
+                "id": 457,
+                "symbol": "FET-BTC",
+                "price": "0.000018078"
+            },
+            {
+                "id": 458,
+                "symbol": "FXS-USDT",
+                "price": "9.068"
+            },
+            {
+                "id": 459,
+                "symbol": "XRD-USDT",
+                "price": "0.0538"
+            },
+            {
+                "id": 460,
+                "symbol": "RLC-USDT",
+                "price": "3.4302"
+            },
+            {
+                "id": 461,
+                "symbol": "UNFI-USDT",
+                "price": "6.874"
+            },
+            {
+                "id": 462,
+                "symbol": "CIRUS-USDT",
+                "price": "0.03456"
+            },
+            {
+                "id": 463,
+                "symbol": "FTT-USDT",
+                "price": "1.83"
+            },
+            {
+                "id": 464,
+                "symbol": "FITFI-USDT",
+                "price": "0.00668"
+            },
+            {
+                "id": 465,
+                "symbol": "HAKA-USDT",
+                "price": "0.013405"
+            },
+            {
+                "id": 466,
+                "symbol": "HIFI-USDT",
+                "price": "0.6429"
+            },
+            {
+                "id": 467,
+                "symbol": "YFDAI-USDT",
+                "price": "93.4"
+            },
+            {
+                "id": 468,
+                "symbol": "EOS-BTC",
+                "price": "0.00001494"
+            },
+            {
+                "id": 469,
+                "symbol": "ZRX-BTC",
+                "price": "0.000006767"
+            },
+            {
+                "id": 470,
+                "symbol": "ATOM-USDC",
+                "price": "10.6512"
+            },
+            {
+                "id": 471,
+                "symbol": "LENDS-USDT",
+                "price": "0.1152"
+            },
+            {
+                "id": 472,
+                "symbol": "DEFI-USDT",
+                "price": "0.274"
+            },
+            {
+                "id": 473,
+                "symbol": "MATIC3L-USDT",
+                "price": "8.956"
+            },
+            {
+                "id": 474,
+                "symbol": "FX-BTC",
+                "price": "0.000002922"
+            },
+            {
+                "id": 475,
+                "symbol": "LUNCDOWN-USDT",
+                "price": "0.010241"
+            },
+            {
+                "id": 476,
+                "symbol": "PMG-USDT",
+                "price": "0.135"
+            },
+            {
+                "id": 477,
+                "symbol": "ETH-BRL",
+                "price": "14566.74"
+            },
+            {
+                "id": 478,
+                "symbol": "SAND3L-USDT",
+                "price": "0.21669624"
+            },
+            {
+                "id": 479,
+                "symbol": "TOKEN-USDT",
+                "price": "0.03769"
+            },
+            {
+                "id": 480,
+                "symbol": "TUNE-USDT",
+                "price": "0.08842"
+            },
+            {
+                "id": 481,
+                "symbol": "XCUR-BTC",
+                "price": "0.0000007042"
+            },
+            {
+                "id": 482,
+                "symbol": "OM-BTC",
+                "price": "0.000004567"
+            },
+            {
+                "id": 483,
+                "symbol": "SOL3L-USDT",
+                "price": "11.57113459"
+            },
+            {
+                "id": 484,
+                "symbol": "BCHSV-USDT",
+                "price": "78.034"
+            },
+            {
+                "id": 485,
+                "symbol": "BCH-KCS",
+                "price": "25.549"
+            },
+            {
+                "id": 486,
+                "symbol": "SNX-USDT",
+                "price": "3.810722"
+            },
+            {
+                "id": 487,
+                "symbol": "CANDY-USDT",
+                "price": "0.01702"
+            },
+            {
+                "id": 488,
+                "symbol": "DOGE-BTC",
+                "price": "0.000001651"
+            },
+            {
+                "id": 489,
+                "symbol": "PUMLX-USDT",
+                "price": "0.01556"
+            },
+            {
+                "id": 490,
+                "symbol": "QRDO-ETH",
+                "price": "0.0000115"
+            },
+            {
+                "id": 491,
+                "symbol": "ALEX-USDT",
+                "price": "0.4151"
+            },
+            {
+                "id": 492,
+                "symbol": "AIOZ-USDT",
+                "price": "0.18929"
+            },
+            {
+                "id": 493,
+                "symbol": "PBX-USDT",
+                "price": "0.0011246"
+            },
+            {
+                "id": 494,
+                "symbol": "INJ-USDT",
+                "price": "37.787"
+            },
+            {
+                "id": 495,
+                "symbol": "TLOS-BTC",
+                "price": "0.000007224"
+            },
+            {
+                "id": 496,
+                "symbol": "BCHSV-USDC",
+                "price": "78.17"
+            },
+            {
+                "id": 497,
+                "symbol": "TIDAL-USDT",
+                "price": "0.0002955"
+            },
+            {
+                "id": 498,
+                "symbol": "USDP-USDT",
+                "price": "0.9991"
+            },
+            {
+                "id": 499,
+                "symbol": "LPOOL-USDT",
+                "price": "0.25"
+            },
+            {
+                "id": 500,
+                "symbol": "NHCT-USDT",
+                "price": "0.02802"
+            },
+            {
+                "id": 501,
+                "symbol": "ATOM-USDT",
+                "price": "10.6352"
+            },
+            {
+                "id": 502,
+                "symbol": "MANA-USDT",
+                "price": "0.5064"
+            },
+            {
+                "id": 503,
+                "symbol": "BRWL-USDT",
+                "price": "0.01311"
+            },
+            {
+                "id": 504,
+                "symbol": "ACQ-USDT",
+                "price": "0.016447"
+            },
+            {
+                "id": 505,
+                "symbol": "UQC-USDT",
+                "price": "8.1129"
+            },
+            {
+                "id": 506,
+                "symbol": "ALT-USDT",
+                "price": "0.0272"
+            },
+            {
+                "id": 507,
+                "symbol": "RNDRUP-USDT",
+                "price": "35.1139"
+            },
+            {
+                "id": 508,
+                "symbol": "CUDOS-BTC",
+                "price": "0.0000004"
+            },
+            {
+                "id": 509,
+                "symbol": "FTM3L-USDT",
+                "price": "0.001724"
+            },
+            {
+                "id": 510,
+                "symbol": "LTC-ETH",
+                "price": "0.02441"
+            },
+            {
+                "id": 511,
+                "symbol": "SOLS-USDT",
+                "price": "1.5709"
+            },
+            {
+                "id": 512,
+                "symbol": "TRX-BTC",
+                "price": "0.00000259"
+            },
+            {
+                "id": 513,
+                "symbol": "XLM-BTC",
+                "price": "0.00000224"
+            },
+            {
+                "id": 514,
+                "symbol": "XLM-KCS",
+                "price": "0.011056"
+            },
+            {
+                "id": 515,
+                "symbol": "AUDIO-USDT",
+                "price": "0.2514"
+            },
+            {
+                "id": 516,
+                "symbol": "DOT-BTC",
+                "price": "0.00014887"
+            },
+            {
+                "id": 517,
+                "symbol": "VEGA-USDT",
+                "price": "1.0396"
+            },
+            {
+                "id": 518,
+                "symbol": "DCR-USDT",
+                "price": "18.05"
+            },
+            {
+                "id": 519,
+                "symbol": "ORDI-USDT",
+                "price": "71.4313"
+            },
+            {
+                "id": 520,
+                "symbol": "TRX-KCS",
+                "price": "0.012836"
+            },
+            {
+                "id": 521,
+                "symbol": "DOGE-KCS",
+                "price": "0.008187"
+            },
+            {
+                "id": 522,
+                "symbol": "KSM-USDT",
+                "price": "47.4522"
+            },
+            {
+                "id": 523,
+                "symbol": "MTL-BTC",
+                "price": "0.00003189"
+            },
+            {
+                "id": 524,
+                "symbol": "AFG-USDT",
+                "price": "0.09324"
+            },
+            {
+                "id": 525,
+                "symbol": "LTO-BTC",
+                "price": "0.000001792"
+            },
+            {
+                "id": 526,
+                "symbol": "ETH-USDT",
+                "price": "2913.42"
+            },
+            {
+                "id": 527,
+                "symbol": "STORJ-USDT",
+                "price": "0.724"
+            },
+            {
+                "id": 528,
+                "symbol": "KASUP-USDT",
+                "price": "4.389"
+            },
+            {
+                "id": 529,
+                "symbol": "HIDOODLES-USDT",
+                "price": "0.0084912"
+            },
+            {
+                "id": 530,
+                "symbol": "XMR-BTC",
+                "price": "0.002294"
+            },
+            {
+                "id": 531,
+                "symbol": "HIENS4-USDT",
+                "price": "0.0009556"
+            },
+            {
+                "id": 532,
+                "symbol": "CHR-BTC",
+                "price": "0.000008943"
+            },
+            {
+                "id": 533,
+                "symbol": "GALAX-USDT",
+                "price": "0.02766"
+            },
+            {
+                "id": 534,
+                "symbol": "ZPAY-USDT",
+                "price": "0.00862"
+            },
+            {
+                "id": 535,
+                "symbol": "OBI-USDT",
+                "price": "0.014111"
+            },
+            {
+                "id": 536,
+                "symbol": "AVA-BTC",
+                "price": "0.00001149"
+            },
+            {
+                "id": 537,
+                "symbol": "BLOK-USDT",
+                "price": "0.002004"
+            },
+            {
+                "id": 538,
+                "symbol": "FLIP-USDT",
+                "price": "5.3588"
+            },
+            {
+                "id": 539,
+                "symbol": "MTV-ETH",
+                "price": "0.0000005799"
+            },
+            {
+                "id": 540,
+                "symbol": "BURGER-USDT",
+                "price": "0.5951"
+            },
+            {
+                "id": 541,
+                "symbol": "QKC-BTC",
+                "price": "0.0000002016"
+            },
+            {
+                "id": 542,
+                "symbol": "PEOPLE-USDT",
+                "price": "0.03253"
+            },
+            {
+                "id": 543,
+                "symbol": "CWEB-USDT",
+                "price": "0.01223"
+            },
+            {
+                "id": 544,
+                "symbol": "BAKEUP-USDT",
+                "price": "5.3872"
+            },
+            {
+                "id": 545,
+                "symbol": "BAL-USDT",
+                "price": "4.228"
+            },
+            {
+                "id": 546,
+                "symbol": "FLOW-USDT",
+                "price": "0.9577"
+            },
+            {
+                "id": 547,
+                "symbol": "GALAX3S-USDT",
+                "price": "0.000348"
+            },
+            {
+                "id": 548,
+                "symbol": "AMPL-ETH",
+                "price": "0.0004512"
+            },
+            {
+                "id": 549,
+                "symbol": "SPA-ETH",
+                "price": "0.000004006"
+            },
+            {
+                "id": 550,
+                "symbol": "WMT-USDT",
+                "price": "0.1824"
+            },
+            {
+                "id": 551,
+                "symbol": "SUPER-USDT",
+                "price": "1.22597"
+            },
+            {
+                "id": 552,
+                "symbol": "IMX-USDT",
+                "price": "3.3207"
+            },
+            {
+                "id": 553,
+                "symbol": "WIF-USDT",
+                "price": "0.3887"
+            },
+            {
+                "id": 554,
+                "symbol": "OLE-USDT",
+                "price": "0.01131"
+            },
+            {
+                "id": 555,
+                "symbol": "MYRIA-USDT",
+                "price": "0.011649"
+            },
+            {
+                "id": 556,
+                "symbol": "CREAM-USDT",
+                "price": "16.661"
+            },
+            {
+                "id": 557,
+                "symbol": "LINK3S-USDT",
+                "price": "0.00017933"
+            },
+            {
+                "id": 558,
+                "symbol": "ADA3L-USDT",
+                "price": "0.24774"
+            },
+            {
+                "id": 559,
+                "symbol": "MATIC3S-USDT",
+                "price": "1.0465"
+            },
+            {
+                "id": 560,
+                "symbol": "PHNX-USDT",
+                "price": "0.002262"
+            },
+            {
+                "id": 561,
+                "symbol": "COMBO-USDT",
+                "price": "0.8349"
+            },
+            {
+                "id": 562,
+                "symbol": "DAR-BTC",
+                "price": "0.000002858"
+            },
+            {
+                "id": 563,
+                "symbol": "GARI-USDT",
+                "price": "0.0335"
+            },
+            {
+                "id": 564,
+                "symbol": "ACQ-USDC",
+                "price": "0.015602"
+            },
+            {
+                "id": 565,
+                "symbol": "WAN-ETH",
+                "price": "0.0000784"
+            },
+            {
+                "id": 566,
+                "symbol": "SILLY-USDT",
+                "price": "0.03331"
+            },
+            {
+                "id": 567,
+                "symbol": "DCK-USDT",
+                "price": "0.06365"
+            },
+            {
+                "id": 568,
+                "symbol": "DSLA-USDT",
+                "price": "0.0010238"
+            },
+            {
+                "id": 569,
+                "symbol": "VRA-USDT",
+                "price": "0.00764373"
+            },
+            {
+                "id": 570,
+                "symbol": "WAX-USDT",
+                "price": "0.0612"
+            },
+            {
+                "id": 571,
+                "symbol": "KEY-BTC",
+                "price": "0.0000001384"
+            },
+            {
+                "id": 572,
+                "symbol": "DEXE-USDT",
+                "price": "3.2651"
+            },
+            {
+                "id": 573,
+                "symbol": "SHR-USDT",
+                "price": "0.001584"
+            },
+            {
+                "id": 574,
+                "symbol": "WIN-BTC",
+                "price": "0.000000002118"
+            },
+            {
+                "id": 575,
+                "symbol": "LINK3L-USDT",
+                "price": "0.00069093"
+            },
+            {
+                "id": 576,
+                "symbol": "ALPHA-BTC",
+                "price": "0.000002425"
+            },
+            {
+                "id": 577,
+                "symbol": "JASMY3L-USDT",
+                "price": "0.00158"
+            },
+            {
+                "id": 578,
+                "symbol": "GMT3L-USDT",
+                "price": "1.43366836"
+            },
+            {
+                "id": 579,
+                "symbol": "VRA-USDC",
+                "price": "0.007642"
+            },
+            {
+                "id": 580,
+                "symbol": "CEEK-USDT",
+                "price": "0.05263"
+            },
+            {
+                "id": 581,
+                "symbol": "LINA-BTC",
+                "price": "0.00000018"
+            },
+            {
+                "id": 582,
+                "symbol": "XCH-USDT",
+                "price": "34.6"
+            },
+            {
+                "id": 583,
+                "symbol": "SDAO-USDT",
+                "price": "0.4832"
+            },
+            {
+                "id": 584,
+                "symbol": "SCLP-USDT",
+                "price": "0.3243"
+            },
+            {
+                "id": 585,
+                "symbol": "HIMAYC-USDT",
+                "price": "0.01214"
+            },
+            {
+                "id": 586,
+                "symbol": "AI-USDT",
+                "price": "0.0010214"
+            },
+            {
+                "id": 587,
+                "symbol": "FORT-USDT",
+                "price": "0.2008"
+            },
+            {
+                "id": 588,
+                "symbol": "WBTC-BTC",
+                "price": "1.0021"
+            },
+            {
+                "id": 589,
+                "symbol": "CMP-USDT",
+                "price": "0.015"
+            },
+            {
+                "id": 590,
+                "symbol": "REQ-ETH",
+                "price": "0.00003693"
+            },
+            {
+                "id": 591,
+                "symbol": "HISQUIGGLE-USDT",
+                "price": "0.01751"
+            },
+            {
+                "id": 592,
+                "symbol": "FRM-USDT",
+                "price": "0.06879"
+            },
+            {
+                "id": 593,
+                "symbol": "LMR-USDT",
+                "price": "0.027591"
+            },
+            {
+                "id": 594,
+                "symbol": "AURY-USDT",
+                "price": "1.289"
+            },
+            {
+                "id": 595,
+                "symbol": "HIBEANZ-USDT",
+                "price": "0.0009335"
+            },
+            {
+                "id": 596,
+                "symbol": "NFT-TRX",
+                "price": "0.000003305"
+            },
+            {
+                "id": 597,
+                "symbol": "BTC-DAI",
+                "price": "52390.3"
+            },
+            {
+                "id": 598,
+                "symbol": "AKT-USDT",
+                "price": "3.988"
+            },
+            {
+                "id": 599,
+                "symbol": "HALO-USDT",
+                "price": "0.02201"
+            },
+            {
+                "id": 600,
+                "symbol": "CPOOL-USDT",
+                "price": "0.15487"
+            },
+            {
+                "id": 601,
+                "symbol": "TXA-USDT",
+                "price": "0.1283"
+            },
+            {
+                "id": 602,
+                "symbol": "1INCH-USDT",
+                "price": "0.45752"
+            },
+            {
+                "id": 603,
+                "symbol": "PORT3-USDT",
+                "price": "0.10341"
+            },
+            {
+                "id": 604,
+                "symbol": "ALEPH-USDT",
+                "price": "0.325723"
+            },
+            {
+                "id": 605,
+                "symbol": "PERP-USDT",
+                "price": "1.3521"
+            },
+            {
+                "id": 606,
+                "symbol": "HFT-USDC",
+                "price": "0.382"
+            },
+            {
+                "id": 607,
+                "symbol": "DOCK-ETH",
+                "price": "0.00001184"
+            },
+            {
+                "id": 608,
+                "symbol": "TXA-USDC",
+                "price": "0.132"
+            },
+            {
+                "id": 609,
+                "symbol": "CGPT-USDT",
+                "price": "0.288869"
+            },
+            {
+                "id": 610,
+                "symbol": "ADA3S-USDT",
+                "price": "0.001221"
+            },
+            {
+                "id": 611,
+                "symbol": "MNW-USDT",
+                "price": "1.2223"
+            },
+            {
+                "id": 612,
+                "symbol": "ANT-USDT",
+                "price": "7.3693"
+            },
+            {
+                "id": 613,
+                "symbol": "MANTA-USDT",
+                "price": "3.0423"
+            },
+            {
+                "id": 614,
+                "symbol": "HICOOLCATS-USDT",
+                "price": "0.002592"
+            },
+            {
+                "id": 615,
+                "symbol": "MTS-USDT",
+                "price": "0.014543"
+            },
+            {
+                "id": 616,
+                "symbol": "ABBC-USDT",
+                "price": "0.03488"
+            },
+            {
+                "id": 617,
+                "symbol": "ADX-USDT",
+                "price": "0.2014"
+            },
+            {
+                "id": 618,
+                "symbol": "KDA-BTC",
+                "price": "0.00002261"
+            },
+            {
+                "id": 619,
+                "symbol": "ETH-USDC",
+                "price": "2913.79"
+            },
+            {
+                "id": 620,
+                "symbol": "CAS-BTC",
+                "price": "0.000000087"
+            },
+            {
+                "id": 621,
+                "symbol": "CAKE-USDT",
+                "price": "2.784"
+            },
+            {
+                "id": 622,
+                "symbol": "XETA-USDT",
+                "price": "0.02292"
+            },
+            {
+                "id": 623,
+                "symbol": "NWC-USDT",
+                "price": "0.083476"
+            },
+            {
+                "id": 624,
+                "symbol": "DAR-USDT",
+                "price": "0.1501"
+            },
+            {
+                "id": 625,
+                "symbol": "CVC-BTC",
+                "price": "0.000002143"
+            },
+            {
+                "id": 626,
+                "symbol": "AURORA-USDT",
+                "price": "0.2746"
+            },
+            {
+                "id": 627,
+                "symbol": "GAL-USDT",
+                "price": "3.357"
+            },
+            {
+                "id": 628,
+                "symbol": "ONE-USDT",
+                "price": "0.019135"
+            },
+            {
+                "id": 629,
+                "symbol": "AVAX-USDC",
+                "price": "39.916"
+            },
+            {
+                "id": 630,
+                "symbol": "SFUND-USDT",
+                "price": "3.5091"
+            },
+            {
+                "id": 631,
+                "symbol": "FTM3S-USDT",
+                "price": "0.1799"
+            },
+            {
+                "id": 632,
+                "symbol": "STRIKE-USDT",
+                "price": "12.21"
+            },
+            {
+                "id": 633,
+                "symbol": "DFI-BTC",
+                "price": "0.00000167"
+            },
+            {
+                "id": 634,
+                "symbol": "1CAT-USDT",
+                "price": "0.006318"
+            },
+            {
+                "id": 635,
+                "symbol": "SON-USDT",
+                "price": "0.0003228"
+            },
+            {
+                "id": 636,
+                "symbol": "PZP-USDT",
+                "price": "0.3688"
+            },
+            {
+                "id": 637,
+                "symbol": "DYM-USDT",
+                "price": "7.5203"
+            },
+            {
+                "id": 638,
+                "symbol": "XYO-ETH",
+                "price": "0.000002203"
+            },
+            {
+                "id": 639,
+                "symbol": "AVAX-USDT",
+                "price": "40.03"
+            },
+            {
+                "id": 640,
+                "symbol": "MASK-USDT",
+                "price": "3.8716"
+            },
+            {
+                "id": 641,
+                "symbol": "LRC-BTC",
+                "price": "0.00000498"
+            },
+            {
+                "id": 642,
+                "symbol": "PIX-USDT",
+                "price": "0.0002955"
+            },
+            {
+                "id": 643,
+                "symbol": "MV-USDT",
+                "price": "0.03747"
+            },
+            {
+                "id": 644,
+                "symbol": "GLMR-USDT",
+                "price": "0.449"
+            },
+            {
+                "id": 645,
+                "symbol": "NEO-ETH",
+                "price": "0.004418"
+            },
+            {
+                "id": 646,
+                "symbol": "POKT-USDT",
+                "price": "0.26757"
+            },
+            {
+                "id": 647,
+                "symbol": "VR-USDT",
+                "price": "0.048139"
+            },
+            {
+                "id": 648,
+                "symbol": "VANRY-USDT",
+                "price": "0.08072"
+            },
+            {
+                "id": 649,
+                "symbol": "DOT-KCS",
+                "price": "0.737"
+            },
+            {
+                "id": 650,
+                "symbol": "DOGE3L-USDT",
+                "price": "0.0000677"
+            },
+            {
+                "id": 651,
+                "symbol": "STX-USDT",
+                "price": "2.8551"
+            },
+            {
+                "id": 652,
+                "symbol": "XPRT-USDT",
+                "price": "0.4287"
+            },
+            {
+                "id": 653,
+                "symbol": "OOE-USDT",
+                "price": "0.017143"
+            },
+            {
+                "id": 654,
+                "symbol": "SHA-USDT",
+                "price": "0.00076"
+            },
+            {
+                "id": 655,
+                "symbol": "DYDXDOWN-USDT",
+                "price": "0.1362"
+            },
+            {
+                "id": 656,
+                "symbol": "GEEQ-USDT",
+                "price": "0.15326"
+            },
+            {
+                "id": 657,
+                "symbol": "LUNA-USDC",
+                "price": "0.7171"
+            },
+            {
+                "id": 658,
+                "symbol": "OLT-BTC",
+                "price": "0.0000000762"
+            },
+            {
+                "id": 659,
+                "symbol": "MBL-USDT",
+                "price": "0.004619"
+            },
+            {
+                "id": 660,
+                "symbol": "LINK-BTC",
+                "price": "0.00038017"
+            },
+            {
+                "id": 661,
+                "symbol": "KAS-USDT",
+                "price": "0.16808"
+            },
+            {
+                "id": 662,
+                "symbol": "QRDO-USDT",
+                "price": "0.03347"
+            },
+            {
+                "id": 663,
+                "symbol": "XAVA-USDT",
+                "price": "1.1204"
+            },
+            {
+                "id": 664,
+                "symbol": "XYM-USDT",
+                "price": "0.025"
+            },
+            {
+                "id": 665,
+                "symbol": "LUNA-USDT",
+                "price": "0.7195"
+            },
+            {
+                "id": 666,
+                "symbol": "CFX-BTC",
+                "price": "0.000004615"
+            },
+            {
+                "id": 667,
+                "symbol": "XNO-USDT",
+                "price": "1.3302"
+            },
+            {
+                "id": 668,
+                "symbol": "MLS-USDT",
+                "price": "0.01802"
+            },
+            {
+                "id": 669,
+                "symbol": "DIA-BTC",
+                "price": "0.00001066"
+            },
+            {
+                "id": 670,
+                "symbol": "MANA3S-USDT",
+                "price": "0.00403"
+            },
+            {
+                "id": 671,
+                "symbol": "ATOM-ETH",
+                "price": "0.003657"
+            },
+            {
+                "id": 672,
+                "symbol": "CVX-USDT",
+                "price": "4.1691"
+            },
+            {
+                "id": 673,
+                "symbol": "JTO-USDT",
+                "price": "2.35834"
+            },
+            {
+                "id": 674,
+                "symbol": "DOGE3S-USDT",
+                "price": "0.001208"
+            },
+            {
+                "id": 675,
+                "symbol": "PRE-BTC",
+                "price": "0.0000004911"
+            },
+            {
+                "id": 676,
+                "symbol": "WLKN-USDT",
+                "price": "0.005593"
+            },
+            {
+                "id": 677,
+                "symbol": "IOST-ETH",
+                "price": "0.00000322"
+            },
+            {
+                "id": 678,
+                "symbol": "SOLVE-BTC",
+                "price": "0.000000425"
+            },
+            {
+                "id": 679,
+                "symbol": "LSK-USDT",
+                "price": "1.3495"
+            },
+            {
+                "id": 680,
+                "symbol": "CSPR-ETH",
+                "price": "0.00001324"
+            },
+            {
+                "id": 681,
+                "symbol": "IOTA-USDT",
+                "price": "0.2765"
+            },
+            {
+                "id": 682,
+                "symbol": "LYX-ETH",
+                "price": "0.002542"
+            },
+            {
+                "id": 683,
+                "symbol": "KALT-USDT",
+                "price": "0.46298"
+            },
+            {
+                "id": 684,
+                "symbol": "AMPL-BTC",
+                "price": "0.00002525"
+            },
+            {
+                "id": 685,
+                "symbol": "XRP-USDC",
+                "price": "0.56064"
+            },
+            {
+                "id": 686,
+                "symbol": "CRO-BTC",
+                "price": "0.000001738"
+            },
+            {
+                "id": 687,
+                "symbol": "XDEFI-USDT",
+                "price": "0.14117"
+            },
+            {
+                "id": 688,
+                "symbol": "TRVL-BTC",
+                "price": "0.000000942"
+            },
+            {
+                "id": 689,
+                "symbol": "DFI-USDT",
+                "price": "0.0882"
+            },
+            {
+                "id": 690,
+                "symbol": "HFT-USDT",
+                "price": "0.3821"
+            },
+            {
+                "id": 691,
+                "symbol": "LUNCUP-USDT",
+                "price": "1.6065"
+            },
+            {
+                "id": 692,
+                "symbol": "CSPR-USDT",
+                "price": "0.03843"
+            },
+            {
+                "id": 693,
+                "symbol": "PUNDIX-USDT",
+                "price": "0.4538"
+            },
+            {
+                "id": 694,
+                "symbol": "ELON-USDT",
+                "price": "0.0000001636"
+            },
+            {
+                "id": 695,
+                "symbol": "AMU-USDT",
+                "price": "0.02158"
+            },
+            {
+                "id": 696,
+                "symbol": "AXS-USDT",
+                "price": "8.268"
+            },
+            {
+                "id": 697,
+                "symbol": "KARATE-USDT",
+                "price": "0.0058561"
+            },
+            {
+                "id": 698,
+                "symbol": "XRP-ETH",
+                "price": "0.0001927"
+            },
+            {
+                "id": 699,
+                "symbol": "ELF-BTC",
+                "price": "0.000011988"
+            },
+            {
+                "id": 700,
+                "symbol": "LQTY-USDT",
+                "price": "1.5228"
+            },
+            {
+                "id": 701,
+                "symbol": "VELO-USDT",
+                "price": "0.005396"
+            },
+            {
+                "id": 702,
+                "symbol": "ADS-BTC",
+                "price": "0.000004409"
+            },
+            {
+                "id": 703,
+                "symbol": "MLK-BTC",
+                "price": "0.00000622"
+            },
+            {
+                "id": 704,
+                "symbol": "PYTHDOWN-USDT",
+                "price": "0.13"
+            },
+            {
+                "id": 705,
+                "symbol": "KMA-USDT",
+                "price": "0.002324"
+            },
+            {
+                "id": 706,
+                "symbol": "MANA-BTC",
+                "price": "0.00000967"
+            },
+            {
+                "id": 707,
+                "symbol": "SHA-BTC",
+                "price": "0.00000001451"
+            },
+            {
+                "id": 708,
+                "symbol": "SRBP-USDT",
+                "price": "0.0002748"
+            },
+            {
+                "id": 709,
+                "symbol": "LYX-USDT",
+                "price": "7.3901"
+            },
+            {
+                "id": 710,
+                "symbol": "OPUL-USDT",
+                "price": "0.1005"
+            },
+            {
+                "id": 711,
+                "symbol": "SENSO-BTC",
+                "price": "0.000001611"
+            },
+            {
+                "id": 712,
+                "symbol": "POLS-BTC",
+                "price": "0.00001743"
+            },
+            {
+                "id": 713,
+                "symbol": "VET3L-USDT",
+                "price": "0.002608"
+            },
+            {
+                "id": 714,
+                "symbol": "FRONT-USDT",
+                "price": "0.5264"
+            },
+            {
+                "id": 715,
+                "symbol": "CAS-USDT",
+                "price": "0.004548"
+            },
+            {
+                "id": 716,
+                "symbol": "CELR-USDT",
+                "price": "0.02253"
+            },
+            {
+                "id": 717,
+                "symbol": "KONO-USDT",
+                "price": "0.01996"
+            },
+            {
+                "id": 718,
+                "symbol": "LINK-KCS",
+                "price": "1.8825"
+            },
+            {
+                "id": 719,
+                "symbol": "IZI-USDT",
+                "price": "0.01435"
+            },
+            {
+                "id": 720,
+                "symbol": "LIT-BTC",
+                "price": "0.00002231"
+            },
+            {
+                "id": 721,
+                "symbol": "NORD-BTC",
+                "price": "0.000003725"
+            },
+            {
+                "id": 722,
+                "symbol": "MTV-USDT",
+                "price": "0.0016537"
+            },
+            {
+                "id": 723,
+                "symbol": "CRO-USDT",
+                "price": "0.09093"
+            },
+            {
+                "id": 724,
+                "symbol": "DAG-ETH",
+                "price": "0.00001777"
+            },
+            {
+                "id": 725,
+                "symbol": "HARD-USDT",
+                "price": "0.193"
+            },
+            {
+                "id": 726,
+                "symbol": "WOMBAT-USDT",
+                "price": "0.003541"
+            },
+            {
+                "id": 727,
+                "symbol": "MAN-USDT",
+                "price": "0.038438"
+            },
+            {
+                "id": 728,
+                "symbol": "USDT-TUSD",
+                "price": "1.0246"
+            },
+            {
+                "id": 729,
+                "symbol": "SOL-USDT",
+                "price": "112.077"
+            },
+            {
+                "id": 730,
+                "symbol": "API3-USDT",
+                "price": "4.112"
+            },
+            {
+                "id": 731,
+                "symbol": "PHA-ETH",
+                "price": "0.00004441"
+            },
+            {
+                "id": 732,
+                "symbol": "SHIB-DOGE",
+                "price": "0.00011461"
+            },
+            {
+                "id": 733,
+                "symbol": "ECOX-USDT",
+                "price": "0.2681"
+            },
+            {
+                "id": 734,
+                "symbol": "YFI-USDT",
+                "price": "7814.71"
+            },
+            {
+                "id": 735,
+                "symbol": "SWFTC-USDT",
+                "price": "0.0025113"
+            },
+            {
+                "id": 736,
+                "symbol": "MARSH-USDT",
+                "price": "0.15768"
+            },
+            {
+                "id": 737,
+                "symbol": "VET3S-USDT",
+                "price": "0.000878"
+            },
+            {
+                "id": 738,
+                "symbol": "SYS-USDT",
+                "price": "0.1396"
+            },
+            {
+                "id": 739,
+                "symbol": "FET-USDT",
+                "price": "0.9452"
+            },
+            {
+                "id": 740,
+                "symbol": "VRAUP-USDT",
+                "price": "11.780785"
+            },
+            {
+                "id": 741,
+                "symbol": "XLM-ETH",
+                "price": "0.00004016"
+            },
+            {
+                "id": 742,
+                "symbol": "BTCUP-USDT",
+                "price": "30.3495"
+            },
+            {
+                "id": 743,
+                "symbol": "TIME-ETH",
+                "price": "0.007428"
+            },
+            {
+                "id": 744,
+                "symbol": "AKRO-BTC",
+                "price": "0.0000001087"
+            },
+            {
+                "id": 745,
+                "symbol": "MATIC-USDT",
+                "price": "1.0102"
+            },
+            {
+                "id": 746,
+                "symbol": "SWEAT-USDT",
+                "price": "0.011079"
+            },
+            {
+                "id": 747,
+                "symbol": "AAVE-KCS",
+                "price": "9.1123"
+            },
+            {
+                "id": 748,
+                "symbol": "SOL-USDC",
+                "price": "112.01"
+            },
+            {
+                "id": 749,
+                "symbol": "SWFTC-USDC",
+                "price": "0.0025233"
+            },
+            {
+                "id": 750,
+                "symbol": "APP-USDT",
+                "price": "0.029485"
+            },
+            {
+                "id": 751,
+                "symbol": "MTRG-USDT",
+                "price": "2.797"
+            },
+            {
+                "id": 752,
+                "symbol": "BDX-USDT",
+                "price": "0.042"
+            },
+            {
+                "id": 753,
+                "symbol": "PAXG-USDT",
+                "price": "1994.77"
+            },
+            {
+                "id": 754,
+                "symbol": "STORJ-ETH",
+                "price": "0.0002477"
+            },
+            {
+                "id": 755,
+                "symbol": "SIN-USDT",
+                "price": "0.011825"
+            },
+            {
+                "id": 756,
+                "symbol": "TRU-BTC",
+                "price": "0.000001247"
+            },
+            {
+                "id": 757,
+                "symbol": "MATIC-USDC",
+                "price": "1.0067"
+            },
+            {
+                "id": 758,
+                "symbol": "XRP-USDT",
+                "price": "0.56106"
+            },
+            {
+                "id": 759,
+                "symbol": "RATS-USDT",
+                "price": "0.00027834"
+            },
+            {
+                "id": 760,
+                "symbol": "GRAIL-USDT",
+                "price": "1850.74"
+            },
+            {
+                "id": 761,
+                "symbol": "HIMEEBITS-USDT",
+                "price": "0.0029"
+            },
+            {
+                "id": 762,
+                "symbol": "BNB-USDT",
+                "price": "352.788"
+            },
+            {
+                "id": 763,
+                "symbol": "PRQ-USDT",
+                "price": "0.16784"
+            },
+            {
+                "id": 764,
+                "symbol": "NIM-BTC",
+                "price": "0.00000003112"
+            },
+            {
+                "id": 765,
+                "symbol": "TRADE-BTC",
+                "price": "0.000018728"
+            },
+            {
+                "id": 766,
+                "symbol": "ALPINE-USDT",
+                "price": "2.185"
+            },
+            {
+                "id": 767,
+                "symbol": "NIM-USDT",
+                "price": "0.0016242"
+            },
+            {
+                "id": 768,
+                "symbol": "DYP-USDT",
+                "price": "0.03515"
+            },
+            {
+                "id": 769,
+                "symbol": "HIGH-ETH",
+                "price": "0.000596"
+            },
+            {
+                "id": 770,
+                "symbol": "MAHA-USDT",
+                "price": "0.8931"
+            },
+            {
+                "id": 771,
+                "symbol": "BNB-USDC",
+                "price": "352.69"
+            },
+            {
+                "id": 772,
+                "symbol": "GALAX3L-USDT",
+                "price": "1.02630263"
+            },
+            {
+                "id": 773,
+                "symbol": "DOSE-USDC",
+                "price": "0.003919"
+            },
+            {
+                "id": 774,
+                "symbol": "CRV-USDT",
+                "price": "0.5488"
+            },
+            {
+                "id": 775,
+                "symbol": "GLMR-BTC",
+                "price": "0.00000857"
+            },
+            {
+                "id": 776,
+                "symbol": "LAI-USDT",
+                "price": "0.02495"
+            },
+            {
+                "id": 777,
+                "symbol": "DSLA-BTC",
+                "price": "0.00000001969"
+            },
+            {
+                "id": 778,
+                "symbol": "NOIA-USDT",
+                "price": "0.169755"
+            },
+            {
+                "id": 779,
+                "symbol": "BEPRO-BTC",
+                "price": "0.00000001446"
+            },
+            {
+                "id": 780,
+                "symbol": "EGLD-USDT",
+                "price": "59.9"
+            },
+            {
+                "id": 781,
+                "symbol": "AMB-BTC",
+                "price": "0.0000001737"
+            },
+            {
+                "id": 782,
+                "symbol": "LSS-USDT",
+                "price": "0.21173"
+            },
+            {
+                "id": 783,
+                "symbol": "HIENS3-USDT",
+                "price": "0.0328"
+            },
+            {
+                "id": 784,
+                "symbol": "FIRE-USDT",
+                "price": "1.35843"
+            },
+            {
+                "id": 785,
+                "symbol": "MOBILE-USDT",
+                "price": "0.003958"
+            },
+            {
+                "id": 786,
+                "symbol": "VLX-USDT",
+                "price": "0.019341"
+            },
+            {
+                "id": 787,
+                "symbol": "PBR-USDT",
+                "price": "0.07105"
+            },
+            {
+                "id": 788,
+                "symbol": "DEXE-BTC",
+                "price": "0.0000633"
+            },
+            {
+                "id": 789,
+                "symbol": "STND-ETH",
+                "price": "0.000006885"
+            },
+            {
+                "id": 790,
+                "symbol": "KACE-USDT",
+                "price": "10.915"
+            },
+            {
+                "id": 791,
+                "symbol": "ORDIDOWN-USDT",
+                "price": "0.000387"
+            },
+            {
+                "id": 792,
+                "symbol": "VET-ETH",
+                "price": "0.00001539"
+            },
+            {
+                "id": 793,
+                "symbol": "MANA3L-USDT",
+                "price": "0.17708589"
+            },
+            {
+                "id": 794,
+                "symbol": "XYM-BTC",
+                "price": "0.000000481"
+            },
+            {
+                "id": 795,
+                "symbol": "SOUL-BTC",
+                "price": "0.000002952"
+            },
+            {
+                "id": 796,
+                "symbol": "TLM-ETH",
+                "price": "0.00000574"
+            },
+            {
+                "id": 797,
+                "symbol": "MINA-USDT",
+                "price": "1.4064"
+            },
+            {
+                "id": 798,
+                "symbol": "OPDOWN-USDT",
+                "price": "5.3482"
+            },
+            {
+                "id": 799,
+                "symbol": "BAL-ETH",
+                "price": "0.001457"
+            },
+            {
+                "id": 800,
+                "symbol": "TOKO-KCS",
+                "price": "0.0001459"
+            },
+            {
+                "id": 801,
+                "symbol": "AR-BTC",
+                "price": "0.0002518"
+            },
+            {
+                "id": 802,
+                "symbol": "GRT-USDT",
+                "price": "0.26537"
+            },
+            {
+                "id": 803,
+                "symbol": "PHA-USDT",
+                "price": "0.13"
+            },
+            {
+                "id": 804,
+                "symbol": "UNB-USDT",
+                "price": "0.0006563"
+            },
+            {
+                "id": 805,
+                "symbol": "ATOR-USDT",
+                "price": "1.3119"
+            },
+            {
+                "id": 806,
+                "symbol": "SKL-USDT",
+                "price": "0.09188"
+            },
+            {
+                "id": 807,
+                "symbol": "DFYN-USDT",
+                "price": "0.02155"
+            },
+            {
+                "id": 808,
+                "symbol": "BURGER-BTC",
+                "price": "0.00001144"
+            },
+            {
+                "id": 809,
+                "symbol": "RMRK-USDT",
+                "price": "2.4125"
+            },
+            {
+                "id": 810,
+                "symbol": "VERSE-USDT",
+                "price": "0.0004298"
+            },
+            {
+                "id": 811,
+                "symbol": "BRISE-USDT",
+                "price": "0.000000151"
+            },
+            {
+                "id": 812,
+                "symbol": "OGV-USDT",
+                "price": "0.010474"
+            },
+            {
+                "id": 813,
+                "symbol": "LABS-ETH",
+                "price": "0.0000001168"
+            },
+            {
+                "id": 814,
+                "symbol": "ARTY-USDT",
+                "price": "1.6432"
+            },
+            {
+                "id": 815,
+                "symbol": "TEL-ETH",
+                "price": "0.0000004759"
+            },
+            {
+                "id": 816,
+                "symbol": "FSN-USDT",
+                "price": "0.1658"
+            },
+            {
+                "id": 817,
+                "symbol": "VSYS-BTC",
+                "price": "0.0000000243"
+            },
+            {
+                "id": 818,
+                "symbol": "ETHUP-USDT",
+                "price": "23.3549"
+            },
+            {
+                "id": 819,
+                "symbol": "LOKA-USDT",
+                "price": "0.2792"
+            },
+            {
+                "id": 820,
+                "symbol": "TRADE-USDT",
+                "price": "0.970322"
+            },
+            {
+                "id": 821,
+                "symbol": "KCS-BTC",
+                "price": "0.0002017"
+            },
+            {
+                "id": 822,
+                "symbol": "BCHSV-ETH",
+                "price": "0.02682"
+            },
+            {
+                "id": 823,
+                "symbol": "SUI3S-USDT",
+                "price": "0.025559"
+            },
+            {
+                "id": 824,
+                "symbol": "LTC-USDC",
+                "price": "70.96"
+            },
+            {
+                "id": 825,
+                "symbol": "RDNT-USDT",
+                "price": "0.3278"
+            },
+            {
+                "id": 826,
+                "symbol": "ROUP-USDT",
+                "price": "0.00754"
+            },
+            {
+                "id": 827,
+                "symbol": "ENJ-ETH",
+                "price": "0.0001154"
+            },
+            {
+                "id": 828,
+                "symbol": "AVA-USDT",
+                "price": "0.599969"
+            },
+            {
+                "id": 829,
+                "symbol": "COTI-USDT",
+                "price": "0.09781"
+            },
+            {
+                "id": 830,
+                "symbol": "KNC-ETH",
+                "price": "0.0002297"
+            },
+            {
+                "id": 831,
+                "symbol": "UNO-BTC",
+                "price": "0.000000746"
+            },
+            {
+                "id": 832,
+                "symbol": "GGG-USDT",
+                "price": "0.12295"
+            },
+            {
+                "id": 833,
+                "symbol": "OOFP-USDT",
+                "price": "0.4187"
+            },
+            {
+                "id": 834,
+                "symbol": "WOO-USDT",
+                "price": "0.44005"
+            },
+            {
+                "id": 835,
+                "symbol": "RACA-USDT",
+                "price": "0.0001662"
+            },
+            {
+                "id": 836,
+                "symbol": "CKB-BTC",
+                "price": "0.0000002455"
+            },
+            {
+                "id": 837,
+                "symbol": "EUL-USDT",
+                "price": "4.542"
+            },
+            {
+                "id": 838,
+                "symbol": "KASDOWN-USDT",
+                "price": "0.6986"
+            },
+            {
+                "id": 839,
+                "symbol": "KPOL-USDT",
+                "price": "0.006821"
+            },
+            {
+                "id": 840,
+                "symbol": "REV3L-USDT",
+                "price": "0.034021"
+            },
+            {
+                "id": 841,
+                "symbol": "GNS-USDT",
+                "price": "6.52"
+            },
+            {
+                "id": 842,
+                "symbol": "ALICE-BTC",
+                "price": "0.00002613"
+            },
+            {
+                "id": 843,
+                "symbol": "FORWARD-USDT",
+                "price": "0.014657"
+            },
+            {
+                "id": 844,
+                "symbol": "XCAD-USDT",
+                "price": "1.5706"
+            },
+            {
+                "id": 845,
+                "symbol": "ACH-USDT",
+                "price": "0.021574"
+            },
+            {
+                "id": 846,
+                "symbol": "VET-USDT",
+                "price": "0.0447523"
+            },
+            {
+                "id": 847,
+                "symbol": "ILV-USDT",
+                "price": "103.651"
+            },
+            {
+                "id": 848,
+                "symbol": "LBP-USDT",
+                "price": "0.0013038"
+            },
+            {
+                "id": 849,
+                "symbol": "ODDZ-USDT",
+                "price": "0.01598"
+            },
+            {
+                "id": 850,
+                "symbol": "BNB3S-USDT",
+                "price": "0.02408"
+            },
+            {
+                "id": 851,
+                "symbol": "CHMB-USDT",
+                "price": "0.00021817"
+            },
+            {
+                "id": 852,
+                "symbol": "HICLONEX-USDT",
+                "price": "0.00359"
+            },
+            {
+                "id": 853,
+                "symbol": "BIGTIME-USDT",
+                "price": "0.41789"
+            },
+            {
+                "id": 854,
+                "symbol": "TFUEL-USDT",
+                "price": "0.04599"
+            },
+            {
+                "id": 855,
+                "symbol": "METIS-USDT",
+                "price": "90.81"
+            },
+            {
+                "id": 856,
+                "symbol": "DUSK-USDT",
+                "price": "0.30058"
+            },
+            {
+                "id": 857,
+                "symbol": "LMWR-USDT",
+                "price": "0.5622"
+            },
+            {
+                "id": 858,
+                "symbol": "OLT-USDT",
+                "price": "0.004002"
+            },
+            {
+                "id": 859,
+                "symbol": "TRU-USDT",
+                "price": "0.0643"
+            },
+            {
+                "id": 860,
+                "symbol": "PIP-USDT",
+                "price": "0.09948"
+            },
+            {
+                "id": 861,
+                "symbol": "CAPP-ETH",
+                "price": "0.0000000296"
+            },
+            {
+                "id": 862,
+                "symbol": "BAX-BTC",
+                "price": "0.000000002572"
+            },
+            {
+                "id": 863,
+                "symbol": "BNC-USDT",
+                "price": "0.7641"
+            },
+            {
+                "id": 864,
+                "symbol": "KAI-BTC",
+                "price": "0.0000001143"
+            },
+            {
+                "id": 865,
+                "symbol": "POLX-USDT",
+                "price": "0.00004159"
+            },
+            {
+                "id": 866,
+                "symbol": "WAVES-BTC",
+                "price": "0.00004473"
+            },
+            {
+                "id": 867,
+                "symbol": "ATEM-USDT",
+                "price": "0.0801"
+            },
+            {
+                "id": 868,
+                "symbol": "HNT-BTC",
+                "price": "0.00019468"
+            },
+            {
+                "id": 869,
+                "symbol": "LADYS-USDT",
+                "price": "0.00000007433"
+            },
+            {
+                "id": 870,
+                "symbol": "PAXG-BTC",
+                "price": "0.038295"
+            },
+            {
+                "id": 871,
+                "symbol": "SHIB-USDT",
+                "price": "0.000009793"
+            },
+            {
+                "id": 872,
+                "symbol": "HIMFERS-USDT",
+                "price": "0.001548"
+            },
+            {
+                "id": 873,
+                "symbol": "NOM-USDT",
+                "price": "0.2346"
+            },
+            {
+                "id": 874,
+                "symbol": "LPOOL-BTC",
+                "price": "0.00000483"
+            },
+            {
+                "id": 875,
+                "symbol": "DGB-BTC",
+                "price": "0.0000001788"
+            },
+            {
+                "id": 876,
+                "symbol": "VRA-BTC",
+                "price": "0.0000001462"
+            },
+            {
+                "id": 877,
+                "symbol": "AVAX3S-USDT",
+                "price": "0.00005961"
+            },
+            {
+                "id": 878,
+                "symbol": "SCPT-USDT",
+                "price": "0.02131"
+            },
+            {
+                "id": 879,
+                "symbol": "HIAZUKI-USDT",
+                "price": "0.01807"
+            },
+            {
+                "id": 880,
+                "symbol": "XDB-USDT",
+                "price": "0.00054458"
+            },
+            {
+                "id": 881,
+                "symbol": "SUI3L-USDT",
+                "price": "0.8935"
+            },
+            {
+                "id": 882,
+                "symbol": "UNI-USDT",
+                "price": "7.6304"
+            },
+            {
+                "id": 883,
+                "symbol": "ETHDOWN-USDT",
+                "price": "0.8139"
+            },
+            {
+                "id": 884,
+                "symbol": "ALGO-KCS",
+                "price": "0.01892"
+            },
+            {
+                "id": 885,
+                "symbol": "FX-ETH",
+                "price": "0.0000522"
+            },
+            {
+                "id": 886,
+                "symbol": "FT-USDT",
+                "price": "1.8286"
+            },
+            {
+                "id": 887,
+                "symbol": "DEGO-ETH",
+                "price": "0.0008302"
+            },
+            {
+                "id": 888,
+                "symbol": "SNX-ETH",
+                "price": "0.001309"
+            },
+            {
+                "id": 889,
+                "symbol": "PYR-BTC",
+                "price": "0.0001343"
+            },
+            {
+                "id": 890,
+                "symbol": "FLUX-BTC",
+                "price": "0.00001631"
+            },
+            {
+                "id": 891,
+                "symbol": "ALGO-BTC",
+                "price": "0.000003816"
+            },
+            {
+                "id": 892,
+                "symbol": "SHIB-USDC",
+                "price": "0.000009771"
+            },
+            {
+                "id": 893,
+                "symbol": "WOOP-USDT",
+                "price": "0.004756"
+            },
+            {
+                "id": 894,
+                "symbol": "ARPA-USDT",
+                "price": "0.068045"
+            },
+            {
+                "id": 895,
+                "symbol": "CRPT-ETH",
+                "price": "0.00001563"
+            },
+            {
+                "id": 896,
+                "symbol": "OMG-ETH",
+                "price": "0.0002509"
+            },
+            {
+                "id": 897,
+                "symbol": "THETA-USDT",
+                "price": "1.2019"
+            },
+            {
+                "id": 898,
+                "symbol": "HBAR-USDT",
+                "price": "0.09577"
+            },
+            {
+                "id": 899,
+                "symbol": "STARLY-USDT",
+                "price": "0.005738"
+            },
+            {
+                "id": 900,
+                "symbol": "IGU-BTC",
+                "price": "0.000000632"
+            },
+            {
+                "id": 901,
+                "symbol": "XEN-USDT",
+                "price": "0.000000386"
+            },
+            {
+                "id": 902,
+                "symbol": "LOCUS-USDT",
+                "price": "0.01946"
+            },
+            {
+                "id": 903,
+                "symbol": "OGN-BTC",
+                "price": "0.00000336"
+            },
+            {
+                "id": 904,
+                "symbol": "GTC-USDT",
+                "price": "1.6145"
+            },
+            {
+                "id": 905,
+                "symbol": "XTM-USDT",
+                "price": "0.050616"
+            },
+            {
+                "id": 906,
+                "symbol": "CELO-BTC",
+                "price": "0.00001483"
+            },
+            {
+                "id": 907,
+                "symbol": "SUSHI-USDT",
+                "price": "1.2616"
+            },
+            {
+                "id": 908,
+                "symbol": "TOKO-BTC",
+                "price": "0.00000002961"
+            },
+            {
+                "id": 909,
+                "symbol": "LINK-USDC",
+                "price": "19.8785"
+            },
+            {
+                "id": 910,
+                "symbol": "SQUAD-USDT",
+                "price": "0.002311"
+            },
+            {
+                "id": 911,
+                "symbol": "LTC-USDT",
+                "price": "71.058"
+            },
+            {
+                "id": 912,
+                "symbol": "OXT-ETH",
+                "price": "0.00004073"
+            },
+            {
+                "id": 913,
+                "symbol": "ANKR-BTC",
+                "price": "0.00000055"
+            },
+            {
+                "id": 914,
+                "symbol": "CULT-USDT",
+                "price": "0.000002708"
+            },
+            {
+                "id": 915,
+                "symbol": "FRONT-BTC",
+                "price": "0.000010027"
+            },
+            {
+                "id": 916,
+                "symbol": "SCRT-USDT",
+                "price": "0.4376"
+            },
+            {
+                "id": 917,
+                "symbol": "TIME-USDT",
+                "price": "21.666"
+            },
+            {
+                "id": 918,
+                "symbol": "TLM-USDT",
+                "price": "0.01679"
+            },
+            {
+                "id": 919,
+                "symbol": "XCUR-USDT",
+                "price": "0.036846"
+            },
+            {
+                "id": 920,
+                "symbol": "BAND-BTC",
+                "price": "0.00004001"
+            },
+            {
+                "id": 921,
+                "symbol": "USDT-DAI",
+                "price": "1.0002"
+            },
+            {
+                "id": 922,
+                "symbol": "ABBC-BTC",
+                "price": "0.000000668"
+            },
+            {
+                "id": 923,
+                "symbol": "LINK-USDT",
+                "price": "19.9339"
+            },
+            {
+                "id": 924,
+                "symbol": "KDA-USDC",
+                "price": "1.1755"
+            },
+            {
+                "id": 925,
+                "symbol": "ASTRA-USDT",
+                "price": "0.003871"
+            },
+            {
+                "id": 926,
+                "symbol": "ETH-GBP",
+                "price": "2248.46"
+            },
+            {
+                "id": 927,
+                "symbol": "VEGA-ETH",
+                "price": "0.0003548"
+            },
+            {
+                "id": 928,
+                "symbol": "NMR-BTC",
+                "price": "0.000684"
+            },
+            {
+                "id": 929,
+                "symbol": "ZKF-USDT",
+                "price": "0.00957"
+            },
+            {
+                "id": 930,
+                "symbol": "WEMIX-USDT",
+                "price": "2.1933"
+            },
+            {
+                "id": 931,
+                "symbol": "APE3S-USDT",
+                "price": "0.006708"
+            },
+            {
+                "id": 932,
+                "symbol": "XCN-BTC",
+                "price": "0.00000003274"
+            },
+            {
+                "id": 933,
+                "symbol": "KDA-USDT",
+                "price": "1.1719"
+            },
+            {
+                "id": 934,
+                "symbol": "IRON-USDT",
+                "price": "2.108"
+            },
+            {
+                "id": 935,
+                "symbol": "KICKS-USDT",
+                "price": "0.0005548"
+            },
+            {
+                "id": 936,
+                "symbol": "POND-BTC",
+                "price": "0.0000004299"
+            },
+            {
+                "id": 937,
+                "symbol": "ROSE-USDT",
+                "price": "0.12683"
+            },
+            {
+                "id": 938,
+                "symbol": "FLR-USDC",
+                "price": "0.03439"
+            },
+            {
+                "id": 939,
+                "symbol": "AVA-ETH",
+                "price": "0.0002056"
+            },
+            {
+                "id": 940,
+                "symbol": "HEART-BTC",
+                "price": "0.0000003146"
+            },
+            {
+                "id": 941,
+                "symbol": "PENDLE-USDT",
+                "price": "2.915"
+            },
+            {
+                "id": 942,
+                "symbol": "XTZ-USDT",
+                "price": "1.07819"
+            },
+            {
+                "id": 943,
+                "symbol": "UFO-USDT",
+                "price": "0.000001221"
+            },
+            {
+                "id": 944,
+                "symbol": "ACE-USDT",
+                "price": "0.007711"
+            },
+            {
+                "id": 945,
+                "symbol": "NEON-USDT",
+                "price": "1.2992"
+            },
+            {
+                "id": 946,
+                "symbol": "NKN-BTC",
+                "price": "0.000002463"
+            },
+            {
+                "id": 947,
+                "symbol": "BTC-BRL",
+                "price": "260895"
+            },
+            {
+                "id": 948,
+                "symbol": "TRVL-USDT",
+                "price": "0.04958"
+            },
+            {
+                "id": 949,
+                "symbol": "NEER-USDT",
+                "price": "0.2349"
+            },
+            {
+                "id": 950,
+                "symbol": "XYO-BTC",
+                "price": "0.0000001217"
+            },
+            {
+                "id": 951,
+                "symbol": "BTC-TUSD",
+                "price": "53582.1"
+            },
+            {
+                "id": 952,
+                "symbol": "WAN-BTC",
+                "price": "0.000004362"
+            },
+            {
+                "id": 953,
+                "symbol": "DC-USDT",
+                "price": "0.0007671"
+            },
+            {
+                "id": 954,
+                "symbol": "HBB-USDT",
+                "price": "0.26552"
+            },
+            {
+                "id": 955,
+                "symbol": "ELF-USDT",
+                "price": "0.6323"
+            },
+            {
+                "id": 956,
+                "symbol": "ANALOS-USDT",
+                "price": "0.0001091"
+            },
+            {
+                "id": 957,
+                "symbol": "RVN-USDT",
+                "price": "0.02261"
+            },
+            {
+                "id": 958,
+                "symbol": "WLD-USDT",
+                "price": "7.4655"
+            },
+            {
+                "id": 959,
+                "symbol": "STC-BTC",
+                "price": "0.0000000629"
+            },
+            {
+                "id": 960,
+                "symbol": "BCH3L-USDT",
+                "price": "16.739299"
+            },
+            {
+                "id": 961,
+                "symbol": "OP-USDT",
+                "price": "3.914"
+            },
+            {
+                "id": 962,
+                "symbol": "MOVR-ETH",
+                "price": "0.008783"
+            },
+            {
+                "id": 963,
+                "symbol": "FTT-BTC",
+                "price": "0.00003562"
+            },
+            {
+                "id": 964,
+                "symbol": "VXV-USDT",
+                "price": "0.5685"
+            },
+            {
+                "id": 965,
+                "symbol": "SOLR-USDT",
+                "price": "0.05715"
+            },
+            {
+                "id": 966,
+                "symbol": "GTC-BTC",
+                "price": "0.0000308"
+            },
+            {
+                "id": 967,
+                "symbol": "IOI-USDT",
+                "price": "0.03681"
+            },
+            {
+                "id": 968,
+                "symbol": "ETHW-USDT",
+                "price": "2.9278"
+            },
+            {
+                "id": 969,
+                "symbol": "SUI-USDT",
+                "price": "1.80459"
+            },
+            {
+                "id": 970,
+                "symbol": "SHIB2S-USDT",
+                "price": "4.1862"
+            },
+            {
+                "id": 971,
+                "symbol": "POND-USDT",
+                "price": "0.022075"
+            },
+            {
+                "id": 972,
+                "symbol": "ICP-USDT",
+                "price": "14.164"
+            },
+            {
+                "id": 973,
+                "symbol": "WAXL-USDT",
+                "price": "1.2585"
+            },
+            {
+                "id": 974,
+                "symbol": "OP-USDC",
+                "price": "3.902"
+            },
+            {
+                "id": 975,
+                "symbol": "TRAC-USDT",
+                "price": "0.8318"
+            },
+            {
+                "id": 976,
+                "symbol": "ETH-EUR",
+                "price": "2700"
+            },
+            {
+                "id": 977,
+                "symbol": "TENET-USDT",
+                "price": "0.10559"
+            },
+            {
+                "id": 978,
+                "symbol": "MAHA-BTC",
+                "price": "0.00001708"
+            },
+            {
+                "id": 979,
+                "symbol": "FET-ETH",
+                "price": "0.00032493"
+            },
+            {
+                "id": 980,
+                "symbol": "UTK-ETH",
+                "price": "0.00002951"
+            },
+            {
+                "id": 981,
+                "symbol": "NORD-USDT",
+                "price": "0.1918"
+            },
+            {
+                "id": 982,
+                "symbol": "BNB3L-USDT",
+                "price": "0.2032"
+            },
+            {
+                "id": 983,
+                "symbol": "BAX-USDT",
+                "price": "0.000135"
+            },
+            {
+                "id": 984,
+                "symbol": "QI-USDT",
+                "price": "0.017962"
+            },
+            {
+                "id": 985,
+                "symbol": "XYO-USDT",
+                "price": "0.006383"
+            },
+            {
+                "id": 986,
+                "symbol": "AVAX3L-USDT",
+                "price": "5.38867266"
+            },
+            {
+                "id": 987,
+                "symbol": "LTC-BTC",
+                "price": "0.001358"
+            },
+            {
+                "id": 988,
+                "symbol": "VRTX-USDT",
+                "price": "0.2778"
+            },
+            {
+                "id": 989,
+                "symbol": "DGB-USDT",
+                "price": "0.009325"
+            },
+            {
+                "id": 990,
+                "symbol": "LRC-USDT",
+                "price": "0.2614"
+            },
+            {
+                "id": 991,
+                "symbol": "VOXEL-ETH",
+                "price": "0.000085"
+            },
+            {
+                "id": 992,
+                "symbol": "QTUM-BTC",
+                "price": "0.00006387"
+            },
+            {
+                "id": 993,
+                "symbol": "NFP-USDT",
+                "price": "0.7959"
+            },
+            {
+                "id": 994,
+                "symbol": "REEF-USDT",
+                "price": "0.001779"
+            },
+            {
+                "id": 995,
+                "symbol": "ANKR-USDT",
+                "price": "0.02884"
+            },
+            {
+                "id": 996,
+                "symbol": "PEL-USDT",
+                "price": "0.007898"
+            },
+            {
+                "id": 997,
+                "symbol": "USDT-BRL",
+                "price": "5.0304"
+            },
+            {
+                "id": 998,
+                "symbol": "CLH-USDT",
+                "price": "0.003559"
+            },
+            {
+                "id": 999,
+                "symbol": "ZELIX-USDT",
+                "price": "0.0005121"
+            },
+            {
+                "id": 1000,
+                "symbol": "DAPPX-USDT",
+                "price": "0.001918"
+            },
+            {
+                "id": 1001,
+                "symbol": "OUSD-BTC",
+                "price": "0.00001905"
+            },
+            {
+                "id": 1002,
+                "symbol": "DYP-ETH",
+                "price": "0.00001204"
+            },
+            {
+                "id": 1003,
+                "symbol": "FLY-USDT",
+                "price": "0.001723"
+            },
+            {
+                "id": 1004,
+                "symbol": "BOBA-USDT",
+                "price": "0.26179"
+            },
+            {
+                "id": 1005,
+                "symbol": "ROUTE-USDT",
+                "price": "3.8643"
+            },
+            {
+                "id": 1006,
+                "symbol": "MAP-BTC",
+                "price": "0.0000006026"
+            },
+            {
+                "id": 1007,
+                "symbol": "ORN-USDT",
+                "price": "1.8713"
+            },
+            {
+                "id": 1008,
+                "symbol": "HIPUNKS-USDT",
+                "price": "0.12697"
+            },
+            {
+                "id": 1009,
+                "symbol": "FLOW-BTC",
+                "price": "0.0000183"
+            },
+            {
+                "id": 1010,
+                "symbol": "SLIM-USDT",
+                "price": "0.26709"
+            },
+            {
+                "id": 1011,
+                "symbol": "PYTH-USDT",
+                "price": "0.61159"
+            },
+            {
+                "id": 1012,
+                "symbol": "POLK-USDT",
+                "price": "0.03994"
+            },
+            {
+                "id": 1013,
+                "symbol": "HIUNDEAD-USDT",
+                "price": "0.0002833"
+            },
+            {
+                "id": 1014,
+                "symbol": "WRX-USDT",
+                "price": "0.258"
+            },
+            {
+                "id": 1015,
+                "symbol": "BIIS-USDT",
+                "price": "0.01462"
+            },
+            {
+                "id": 1016,
+                "symbol": "ETGM-USDT",
+                "price": "0.00006686"
+            },
+            {
+                "id": 1017,
+                "symbol": "CTSI-USDT",
+                "price": "0.3008"
+            },
+            {
+                "id": 1018,
+                "symbol": "HAI-BTC",
+                "price": "0.0000008109"
+            },
+            {
+                "id": 1019,
+                "symbol": "RUNE-BTC",
+                "price": "0.0001052"
+            },
+            {
+                "id": 1020,
+                "symbol": "EGAME-USDT",
+                "price": "0.00005287"
+            },
+            {
+                "id": 1021,
+                "symbol": "BLZ-USDT",
+                "price": "0.3857"
+            },
+            {
+                "id": 1022,
+                "symbol": "FIL-USDT",
+                "price": "6.637"
+            },
+            {
+                "id": 1023,
+                "symbol": "BCH3S-USDT",
+                "price": "0.001621"
+            },
+            {
+                "id": 1024,
+                "symbol": "C98-USDT",
+                "price": "0.3458"
+            },
+            {
+                "id": 1025,
+                "symbol": "NGC-USDT",
+                "price": "0.034971"
+            },
+            {
+                "id": 1026,
+                "symbol": "RSR-USDT",
+                "price": "0.002928"
+            },
+            {
+                "id": 1027,
+                "symbol": "UNI3S-USDT",
+                "price": "0.00662"
+            },
+            {
+                "id": 1028,
+                "symbol": "TRX-ETH",
+                "price": "0.0000465"
+            },
+            {
+                "id": 1029,
+                "symbol": "ONDO-USDT",
+                "price": "0.28329"
+            },
+            {
+                "id": 1030,
+                "symbol": "OCEAN-BTC",
+                "price": "0.00001475"
+            },
+            {
+                "id": 1031,
+                "symbol": "VRADOWN-USDT",
+                "price": "0.150923"
+            },
+            {
+                "id": 1032,
+                "symbol": "WILD-USDT",
+                "price": "0.3603"
+            },
+            {
+                "id": 1033,
+                "symbol": "NAKA-USDT",
+                "price": "1.97967"
+            },
+            {
+                "id": 1034,
+                "symbol": "CUDOS-USDT",
+                "price": "0.021144"
+            },
+            {
+                "id": 1035,
+                "symbol": "MXC-USDT",
+                "price": "0.00883"
+            },
+            {
+                "id": 1036,
+                "symbol": "NFT-USDT",
+                "price": "0.0000004488"
+            },
+            {
+                "id": 1037,
+                "symbol": "VCORE-USDT",
+                "price": "0.003173"
+            },
+            {
+                "id": 1038,
+                "symbol": "JUP-USDT",
+                "price": "0.5352"
+            },
+            {
+                "id": 1039,
+                "symbol": "ONT-USDT",
+                "price": "0.26306"
+            },
+            {
+                "id": 1040,
+                "symbol": "EGAME-BTC",
+                "price": "0.000000001022"
+            },
+            {
+                "id": 1041,
+                "symbol": "DERC-USDT",
+                "price": "0.35"
+            },
+            {
+                "id": 1042,
+                "symbol": "BOB-USDT",
+                "price": "0.00003028"
+            },
+            {
+                "id": 1043,
+                "symbol": "INJ-BTC",
+                "price": "0.00072408"
+            },
+            {
+                "id": 1044,
+                "symbol": "ELA-ETH",
+                "price": "0.0014775"
+            },
+            {
+                "id": 1045,
+                "symbol": "UMA-USDT",
+                "price": "4.188"
+            },
+            {
+                "id": 1046,
+                "symbol": "FORTH-USDT",
+                "price": "3.7723"
+            },
+            {
+                "id": 1047,
+                "symbol": "MOVR-USDT",
+                "price": "25.6024"
+            },
+            {
+                "id": 1048,
+                "symbol": "KEY-ETH",
+                "price": "0.000002483"
+            },
+            {
+                "id": 1049,
+                "symbol": "DVPN-USDT",
+                "price": "0.0027692"
+            },
+            {
+                "id": 1050,
+                "symbol": "REVU-USDT",
+                "price": "0.01548"
+            },
+            {
+                "id": 1051,
+                "symbol": "AR-USDT",
+                "price": "13.15"
+            },
+            {
+                "id": 1052,
+                "symbol": "XNO-BTC",
+                "price": "0.00002549"
+            },
+            {
+                "id": 1053,
+                "symbol": "ZOOA-USDT",
+                "price": "0.00462"
+            },
+            {
+                "id": 1054,
+                "symbol": "TAO-USDT",
+                "price": "657.92"
+            },
+            {
+                "id": 1055,
+                "symbol": "USTC-USDT",
+                "price": "0.0328"
+            },
+            {
+                "id": 1056,
+                "symbol": "WELL-USDT",
+                "price": "0.007261"
+            },
+            {
+                "id": 1057,
+                "symbol": "TIAUP-USDT",
+                "price": "70.4946"
+            },
+            {
+                "id": 1058,
+                "symbol": "AUDIO-BTC",
+                "price": "0.000004802"
+            },
+            {
+                "id": 1059,
+                "symbol": "SIDUS-USDT",
+                "price": "0.006654"
+            },
+            {
+                "id": 1060,
+                "symbol": "CTC-USDT",
+                "price": "0.5315"
+            },
+            {
+                "id": 1061,
+                "symbol": "ONT-ETH",
+                "price": "0.0000906"
+            },
+            {
+                "id": 1062,
+                "symbol": "UNI-KCS",
+                "price": "0.7225"
+            },
+            {
+                "id": 1063,
+                "symbol": "BAL-BTC",
+                "price": "0.0000815"
+            },
+            {
+                "id": 1064,
+                "symbol": "HISEALS-USDT",
+                "price": "0.002365"
+            },
+            {
+                "id": 1065,
+                "symbol": "BEPRO-USDT",
+                "price": "0.0007485"
+            },
+            {
+                "id": 1066,
+                "symbol": "USTC-USDC",
+                "price": "0.03269"
+            },
+            {
+                "id": 1067,
+                "symbol": "OMG-BTC",
+                "price": "0.00001392"
+            },
+            {
+                "id": 1068,
+                "symbol": "DREAMS-USDT",
+                "price": "0.00179142"
+            },
+            {
+                "id": 1069,
+                "symbol": "DYDXUP-USDT",
+                "price": "3.7326"
+            },
+            {
+                "id": 1070,
+                "symbol": "BAND-USDT",
+                "price": "2.0954"
+            },
+            {
+                "id": 1071,
+                "symbol": "VOXEL-USDT",
+                "price": "0.247"
+            },
+            {
+                "id": 1072,
+                "symbol": "GLQ-BTC",
+                "price": "0.0000008785"
+            },
+            {
+                "id": 1073,
+                "symbol": "ERG-BTC",
+                "price": "0.00002783"
+            },
+            {
+                "id": 1074,
+                "symbol": "ATA-USDT",
+                "price": "0.1142"
+            },
+            {
+                "id": 1075,
+                "symbol": "XLM-USDT",
+                "price": "0.11692"
+            },
+            {
+                "id": 1076,
+                "symbol": "YGG-USDT",
+                "price": "0.5286"
+            },
+            {
+                "id": 1077,
+                "symbol": "BONDLY-USDT",
+                "price": "0.004131"
+            },
+            {
+                "id": 1078,
+                "symbol": "DOCK-BTC",
+                "price": "0.00000065"
+            },
+            {
+                "id": 1079,
+                "symbol": "CRPT-BTC",
+                "price": "0.000000852"
+            },
+            {
+                "id": 1080,
+                "symbol": "WORK-USDT",
+                "price": "0.3997"
+            },
+            {
+                "id": 1081,
+                "symbol": "POL-USDT",
+                "price": "1.0056"
+            },
+            {
+                "id": 1082,
+                "symbol": "FLR-USDT",
+                "price": "0.03437"
+            },
+            {
+                "id": 1083,
+                "symbol": "KOK-USDT",
+                "price": "0.00902"
+            },
+            {
+                "id": 1084,
+                "symbol": "EQX-USDT",
+                "price": "0.013632"
+            },
+            {
+                "id": 1085,
+                "symbol": "SHIB2L-USDT",
+                "price": "1.157"
+            },
+            {
+                "id": 1086,
+                "symbol": "DEGO-USDT",
+                "price": "2.4117"
+            },
+            {
+                "id": 1087,
+                "symbol": "USDJ-USDT",
+                "price": "1.10334023"
+            },
+            {
+                "id": 1088,
+                "symbol": "BAT-USDT",
+                "price": "0.2581"
+            },
+            {
+                "id": 1089,
+                "symbol": "TOMI-USDT",
+                "price": "1.1431"
+            },
+            {
+                "id": 1090,
+                "symbol": "STND-USDT",
+                "price": "0.02005"
+            },
+            {
+                "id": 1091,
+                "symbol": "SUKU-BTC",
+                "price": "0.000001111"
+            },
+            {
+                "id": 1092,
+                "symbol": "EDU-USDT",
+                "price": "0.83897"
+            },
+            {
+                "id": 1093,
+                "symbol": "SFP-USDT",
+                "price": "0.7686"
+            },
+            {
+                "id": 1094,
+                "symbol": "BIDP-USDT",
+                "price": "0.034509"
+            },
+            {
+                "id": 1095,
+                "symbol": "CREAM-BTC",
+                "price": "0.0003198"
+            },
+            {
+                "id": 1096,
+                "symbol": "BAKEDOWN-USDT",
+                "price": "0.0553"
+            },
+            {
+                "id": 1097,
+                "symbol": "ARKM-USDT",
+                "price": "1.1559"
+            },
+            {
+                "id": 1098,
+                "symbol": "SAROS-USDT",
+                "price": "0.00965"
+            },
+            {
+                "id": 1099,
+                "symbol": "EOS-ETH",
+                "price": "0.0002676"
+            },
+            {
+                "id": 1100,
+                "symbol": "KLV-TRX",
+                "price": "0.02534"
+            },
+            {
+                "id": 1101,
+                "symbol": "SHR-BTC",
+                "price": "0.0000000307"
+            },
+            {
+                "id": 1102,
+                "symbol": "RPK-USDT",
+                "price": "0.02353"
+            },
+            {
+                "id": 1103,
+                "symbol": "DENT-ETH",
+                "price": "0.0000004529"
+            },
+            {
+                "id": 1104,
+                "symbol": "TRAC-ETH",
+                "price": "0.0002855"
+            },
+            {
+                "id": 1105,
+                "symbol": "UNO-USDT",
+                "price": "0.0387"
+            },
+            {
+                "id": 1106,
+                "symbol": "MYRO-USDT",
+                "price": "0.08939"
+            },
+            {
+                "id": 1107,
+                "symbol": "NWC-BTC",
+                "price": "0.0000016"
+            },
+            {
+                "id": 1108,
+                "symbol": "NEAR-BTC",
+                "price": "0.00006764"
+            },
+            {
+                "id": 1109,
+                "symbol": "SLP-USDT",
+                "price": "0.003869"
+            },
+            {
+                "id": 1110,
+                "symbol": "EQX-BTC",
+                "price": "0.0000002585"
+            },
+            {
+                "id": 1111,
+                "symbol": "REEF-BTC",
+                "price": "0.00000003397"
+            },
+            {
+                "id": 1112,
+                "symbol": "LRC-ETH",
+                "price": "0.00008956"
+            },
+            {
+                "id": 1113,
+                "symbol": "MARS4-USDT",
+                "price": "0.0016019"
+            },
+            {
+                "id": 1114,
+                "symbol": "XEM-USDT",
+                "price": "0.038423"
+            },
+            {
+                "id": 1115,
+                "symbol": "ATA-BTC",
+                "price": "0.000002155"
+            },
+            {
+                "id": 1116,
+                "symbol": "ZEC-BTC",
+                "price": "0.0004834"
+            },
+            {
+                "id": 1117,
+                "symbol": "KAI-USDT",
+                "price": "0.0059424"
+            },
+            {
+                "id": 1118,
+                "symbol": "IOTX-USDT",
+                "price": "0.06451"
+            },
+            {
+                "id": 1119,
+                "symbol": "YFDAI-BTC",
+                "price": "0.001792"
+            },
+            {
+                "id": 1120,
+                "symbol": "OXT-USDT",
+                "price": "0.11825"
+            },
+            {
+                "id": 1121,
+                "symbol": "SSV-USDT",
+                "price": "34.26"
+            },
+            {
+                "id": 1122,
+                "symbol": "PSTAKE-USDT",
+                "price": "0.04281"
+            },
+            {
+                "id": 1123,
+                "symbol": "OM-USDT",
+                "price": "0.24156"
+            },
+            {
+                "id": 1124,
+                "symbol": "GMM-USDT",
+                "price": "0.0006742"
+            },
+            {
+                "id": 1125,
+                "symbol": "GLM-BTC",
+                "price": "0.00000462"
+            },
+            {
+                "id": 1126,
+                "symbol": "SUIP-USDT",
+                "price": "0.1398"
+            },
+            {
+                "id": 1127,
+                "symbol": "PEPEDOWN-USDT",
+                "price": "0.012353"
+            },
+            {
+                "id": 1128,
+                "symbol": "ASD-USDT",
+                "price": "0.04835"
+            },
+            {
+                "id": 1129,
+                "symbol": "HIGH-USDT",
+                "price": "1.731"
+            },
+            {
+                "id": 1130,
+                "symbol": "ACS-USDT",
+                "price": "0.0026014"
+            },
+            {
+                "id": 1131,
+                "symbol": "WIN-TRX",
+                "price": "0.0008148"
+            },
+            {
+                "id": 1132,
+                "symbol": "PDEX-BTC",
+                "price": "0.00002368"
+            },
+            {
+                "id": 1133,
+                "symbol": "QKC-USDT",
+                "price": "0.0106"
+            },
+            {
+                "id": 1134,
+                "symbol": "KCS-USDT",
+                "price": "10.581"
+            },
+            {
+                "id": 1135,
+                "symbol": "SKL-BTC",
+                "price": "0.000001763"
+            },
+            {
+                "id": 1136,
+                "symbol": "LIT-USDT",
+                "price": "1.162"
+            },
+            {
+                "id": 1137,
+                "symbol": "BSW-USDT",
+                "price": "0.1225"
+            },
+            {
+                "id": 1138,
+                "symbol": "GMT-USDT",
+                "price": "0.2798"
+            },
+            {
+                "id": 1139,
+                "symbol": "BTC-GBP",
+                "price": "40372.44"
+            },
+            {
+                "id": 1140,
+                "symbol": "OSMO-USDT",
+                "price": "1.6205"
+            },
+            {
+                "id": 1141,
+                "symbol": "GFT-USDT",
+                "price": "0.02094"
+            },
+            {
+                "id": 1142,
+                "symbol": "XTZ-BTC",
+                "price": "0.00002082"
+            },
+            {
+                "id": 1143,
+                "symbol": "TOWER-USDT",
+                "price": "0.001933"
+            },
+            {
+                "id": 1144,
+                "symbol": "SIMP-USDT",
+                "price": "0.0021634"
+            },
+            {
+                "id": 1145,
+                "symbol": "OFN-USDT",
+                "price": "0.401797"
+            },
+            {
+                "id": 1146,
+                "symbol": "DASH-ETH",
+                "price": "0.01029"
+            },
+            {
+                "id": 1147,
+                "symbol": "ZIL-USDC",
+                "price": "0.0237"
+            },
+            {
+                "id": 1148,
+                "symbol": "EWT-USDT",
+                "price": "2.572"
+            },
+            {
+                "id": 1149,
+                "symbol": "KCS-USDC",
+                "price": "10.572"
+            },
+            {
+                "id": 1150,
+                "symbol": "ZEC-KCS",
+                "price": "2.3926"
+            },
+            {
+                "id": 1151,
+                "symbol": "ADS-USDT",
+                "price": "0.229302"
+            },
+            {
+                "id": 1152,
+                "symbol": "BIFI-USDT",
+                "price": "0.004191"
+            },
+            {
+                "id": 1153,
+                "symbol": "ALGO-USDC",
+                "price": "0.1994"
+            },
+            {
+                "id": 1154,
+                "symbol": "SUTER-USDT",
+                "price": "0.0005398"
+            },
+            {
+                "id": 1155,
+                "symbol": "OMG-USDT",
+                "price": "0.7266"
+            },
+            {
+                "id": 1156,
+                "symbol": "FRA-USDT",
+                "price": "0.0014854"
+            },
+            {
+                "id": 1157,
+                "symbol": "HIFLUF-USDT",
+                "price": "0.002523"
+            },
+            {
+                "id": 1158,
+                "symbol": "ZIL-USDT",
+                "price": "0.02355"
+            },
+            {
+                "id": 1159,
+                "symbol": "TT-USDT",
+                "price": "0.004652"
+            },
+            {
+                "id": 1160,
+                "symbol": "XDC-USDT",
+                "price": "0.04166"
+            },
+            {
+                "id": 1161,
+                "symbol": "COMP-USDT",
+                "price": "61.37"
+            },
+            {
+                "id": 1162,
+                "symbol": "SNS-USDT",
+                "price": "0.03353"
+            },
+            {
+                "id": 1163,
+                "symbol": "HOTCROSS-USDT",
+                "price": "0.005039"
+            },
+            {
+                "id": 1164,
+                "symbol": "ETH2-ETH",
+                "price": "0.9954"
+            },
+            {
+                "id": 1165,
+                "symbol": "PYR-USDT",
+                "price": "7.0437"
+            },
+            {
+                "id": 1166,
+                "symbol": "AMPL-USDT",
+                "price": "1.31394"
+            },
+            {
+                "id": 1167,
+                "symbol": "CYBER-USDT",
+                "price": "9.31"
+            },
+            {
+                "id": 1168,
+                "symbol": "ALGO-USDT",
+                "price": "0.1999"
+            },
+            {
+                "id": 1169,
+                "symbol": "WAVES-USDT",
+                "price": "2.3421"
+            },
+            {
+                "id": 1170,
+                "symbol": "ZIL-ETH",
+                "price": "0.0000081"
+            },
+            {
+                "id": 1171,
+                "symbol": "RSR-BTC",
+                "price": "0.0000000558"
+            },
+            {
+                "id": 1172,
+                "symbol": "XDC-ETH",
+                "price": "0.0000143"
+            },
+            {
+                "id": 1173,
+                "symbol": "GMT-USDC",
+                "price": "0.2815"
+            },
+            {
+                "id": 1174,
+                "symbol": "MELOS-USDT",
+                "price": "0.0018511"
+            },
+            {
+                "id": 1175,
+                "symbol": "ETC-BTC",
+                "price": "0.0005127"
+            },
+            {
+                "id": 1176,
+                "symbol": "XPLL-USDT",
+                "price": "0.1016"
+            },
+            {
+                "id": 1177,
+                "symbol": "RANKER-USDT",
+                "price": "0.002443"
+            },
+            {
+                "id": 1178,
+                "symbol": "MKR-ETH",
+                "price": "0.7556"
+            },
+            {
+                "id": 1179,
+                "symbol": "DASH-USDT",
+                "price": "29.76"
+            },
+            {
+                "id": 1180,
+                "symbol": "AAVE-BTC",
+                "price": "0.001841"
+            },
+            {
+                "id": 1181,
+                "symbol": "BABYDOGE-USDT",
+                "price": "0.000000001214"
+            },
+            {
+                "id": 1182,
+                "symbol": "EPIK-USDT",
+                "price": "0.015287"
+            },
+            {
+                "id": 1183,
+                "symbol": "CRPT-USDT",
+                "price": "0.04442"
+            },
+            {
+                "id": 1184,
+                "symbol": "LIKE-USDT",
+                "price": "0.047956"
+            },
+            {
+                "id": 1185,
+                "symbol": "VISION-USDT",
+                "price": "0.00745"
+            },
+            {
+                "id": 1186,
+                "symbol": "HERO-USDT",
+                "price": "0.003104"
+            },
+            {
+                "id": 1187,
+                "symbol": "HIBAYC-USDT",
+                "price": "0.07259"
+            },
+            {
+                "id": 1188,
+                "symbol": "ENJ-USDT",
+                "price": "0.3365"
+            },
+            {
+                "id": 1189,
+                "symbol": "BOLT-BTC",
+                "price": "0.0000000602"
+            },
+            {
+                "id": 1190,
+                "symbol": "DODO-USDT",
+                "price": "0.1912"
+            },
+            {
+                "id": 1191,
+                "symbol": "GLM-USDT",
+                "price": "0.2405"
+            },
+            {
+                "id": 1192,
+                "symbol": "HON-USDT",
+                "price": "0.01696"
+            },
+            {
+                "id": 1193,
+                "symbol": "KRL-BTC",
+                "price": "0.00000846"
+            },
+            {
+                "id": 1194,
+                "symbol": "DIVI-USDT",
+                "price": "0.0036047"
+            },
+            {
+                "id": 1195,
+                "symbol": "TRIAS-USDT",
+                "price": "16.99687"
+            },
+            {
+                "id": 1196,
+                "symbol": "HIBIRDS-USDT",
+                "price": "0.005595"
+            },
+            {
+                "id": 1197,
+                "symbol": "TRIBL-USDT",
+                "price": "1.022"
+            },
+            {
+                "id": 1198,
+                "symbol": "MAVIA-USDT",
+                "price": "10.1225"
+            },
+            {
+                "id": 1199,
+                "symbol": "STX-BTC",
+                "price": "0.0000542"
+            },
+            {
+                "id": 1200,
+                "symbol": "MAN-BTC",
+                "price": "0.0000007319"
+            },
+            {
+                "id": 1201,
+                "symbol": "CTI-ETH",
+                "price": "0.0000102"
+            },
+            {
+                "id": 1202,
+                "symbol": "HYVE-USDT",
+                "price": "0.03264"
+            },
+            {
+                "id": 1203,
+                "symbol": "MTV-BTC",
+                "price": "0.0000000328"
+            },
+            {
+                "id": 1204,
+                "symbol": "UNFIDOWN-USDT",
+                "price": "0.445865"
+            },
+            {
+                "id": 1205,
+                "symbol": "STORJ-BTC",
+                "price": "0.00001373"
+            },
+            {
+                "id": 1206,
+                "symbol": "TRX-USDC",
+                "price": "0.13546"
+            },
+            {
+                "id": 1207,
+                "symbol": "LTC-KCS",
+                "price": "6.718"
+            },
+            {
+                "id": 1208,
+                "symbol": "QUICK-USDT",
+                "price": "0.0591"
+            },
+            {
+                "id": 1209,
+                "symbol": "JST-USDT",
+                "price": "0.03420119"
+            },
+            {
+                "id": 1210,
+                "symbol": "ORC-USDT",
+                "price": "0.06725"
+            },
+            {
+                "id": 1211,
+                "symbol": "KMD-BTC",
+                "price": "0.000005712"
+            },
+            {
+                "id": 1212,
+                "symbol": "FINC-USDT",
+                "price": "0.2465"
+            },
+            {
+                "id": 1213,
+                "symbol": "NEAR-USDC",
+                "price": "3.535"
+            },
+            {
+                "id": 1214,
+                "symbol": "MC-USDT",
+                "price": "0.002179"
+            },
+            {
+                "id": 1215,
+                "symbol": "INSP-USDT",
+                "price": "0.24152"
+            },
+            {
+                "id": 1216,
+                "symbol": "OGN-USDT",
+                "price": "0.17627"
+            },
+            {
+                "id": 1217,
+                "symbol": "QNT-USDT",
+                "price": "111.285"
+            },
+            {
+                "id": 1218,
+                "symbol": "GFT-BTC",
+                "price": "0.0000004161"
+            },
+            {
+                "id": 1219,
+                "symbol": "NEAR-USDT",
+                "price": "3.5455"
+            },
+            {
+                "id": 1220,
+                "symbol": "HIPENGUINS-USDT",
+                "price": "0.056069"
+            },
+            {
+                "id": 1221,
+                "symbol": "IRL-USDT",
+                "price": "0.08802"
+            },
+            {
+                "id": 1222,
+                "symbol": "BONDLY-ETH",
+                "price": "0.000001469"
+            },
+            {
+                "id": 1223,
+                "symbol": "BFC-USDT",
+                "price": "0.06609"
+            },
+            {
+                "id": 1224,
+                "symbol": "TIADOWN-USDT",
+                "price": "0.005733"
+            },
+            {
+                "id": 1225,
+                "symbol": "XRP-KCS",
+                "price": "0.05302"
+            },
+            {
+                "id": 1226,
+                "symbol": "FLOKI-USDC",
+                "price": "0.000034188"
+            },
+            {
+                "id": 1227,
+                "symbol": "MAV-USDT",
+                "price": "0.6727"
+            },
+            {
+                "id": 1228,
+                "symbol": "MEME-USDT",
+                "price": "0.027292"
+            },
+            {
+                "id": 1229,
+                "symbol": "REAP-USDT",
+                "price": "0.001038"
+            },
+            {
+                "id": 1230,
+                "symbol": "CHR-USDT",
+                "price": "0.467176"
+            },
+            {
+                "id": 1231,
+                "symbol": "KLV-USDT",
+                "price": "0.003433"
+            },
+            {
+                "id": 1232,
+                "symbol": "TWT-USDT",
+                "price": "1.3313"
+            },
+            {
+                "id": 1233,
+                "symbol": "ASTR-BTC",
+                "price": "0.000003369"
+            },
+            {
+                "id": 1234,
+                "symbol": "LAYER-USDT",
+                "price": "0.06162"
+            },
+            {
+                "id": 1235,
+                "symbol": "MKR-USDT",
+                "price": "2197.05"
+            },
+            {
+                "id": 1236,
+                "symbol": "STORE-USDT",
+                "price": "0.033842"
+            },
+            {
+                "id": 1237,
+                "symbol": "ORBS-BTC",
+                "price": "0.000000725"
+            },
+            {
+                "id": 1238,
+                "symbol": "LITH-USDT",
+                "price": "0.001153"
+            },
+            {
+                "id": 1239,
+                "symbol": "FLOKI-USDT",
+                "price": "0.000034347"
+            },
+            {
+                "id": 1240,
+                "symbol": "FLUX-USDT",
+                "price": "0.8535"
+            },
+            {
+                "id": 1241,
+                "symbol": "CERE-USDT",
+                "price": "0.00676"
+            },
+            {
+                "id": 1242,
+                "symbol": "UPO-USDT",
+                "price": "0.0943778"
+            },
+            {
+                "id": 1243,
+                "symbol": "ISSP-USDT",
+                "price": "0.0002763"
+            },
+            {
+                "id": 1244,
+                "symbol": "ORDIUP-USDT",
+                "price": "17.7194"
+            },
+            {
+                "id": 1245,
+                "symbol": "WAX-ETH",
+                "price": "0.00002093"
+            },
+            {
+                "id": 1246,
+                "symbol": "RNDR-USDT",
+                "price": "6.3207"
+            },
+            {
+                "id": 1247,
+                "symbol": "XRP-BTC",
+                "price": "0.00001072"
+            },
+            {
+                "id": 1248,
+                "symbol": "FRR-USDT",
+                "price": "0.00021579"
+            },
+            {
+                "id": 1249,
+                "symbol": "ISLM-USDT",
+                "price": "0.07016"
+            },
+            {
+                "id": 1250,
+                "symbol": "STRAX-USDT",
+                "price": "1.032"
+            },
+            {
+                "id": 1251,
+                "symbol": "DMTR-USDT",
+                "price": "0.042073"
+            },
+            {
+                "id": 1252,
+                "symbol": "TSUGT-USDT",
+                "price": "0.05486"
+            },
+            {
+                "id": 1253,
+                "symbol": "MLK-USDT",
+                "price": "0.32164"
+            }
+        ]
+    }
+]
