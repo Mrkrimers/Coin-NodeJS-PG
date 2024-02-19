@@ -40,9 +40,15 @@ interface iPostgresDB {
 }
 
 interface iHistoryPrice {
-    price: string,
-    timestamp: string
+    time: Date,
+    history: iMaped[]
+}
+
+interface iMaped {
+    id: number,
+    symbol: string,
+    price: string
 }
 
 
-export { iUser, iTicker, iCryptoPrices, iPostgresDB }
+export { iUser, iTicker, iCryptoPrices, iPostgresDB, iHistoryPrice, iMaped }

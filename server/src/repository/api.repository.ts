@@ -1,5 +1,5 @@
 import { pool, pool2 } from '../bd';
-import { iCryptoPrices, iPostgresDB, iUser } from '../interfaces/index';
+import { iCryptoPrices, iHistoryPrice, iMaped, iPostgresDB, iUser } from '../interfaces/index';
 import cron from 'node-cron';
 import axios from 'axios';
 import * as fs from 'fs';
@@ -121,18 +121,27 @@ async function getCryptoPriceDB(): Promise<iPostgresDB[]> {
 }
 
 async function getCryptoPriceByIdDB<T>(id: T, start: T, end: T) {
-    const filteredByTime = historyPrice.filter((el) => start <= el.time <= end)
-    // await saveHistoryPrice();
+    const filteredByTime = historyPrice.filter((el: iHistoryPrice) => start <= el.time && el.time <= end)
 
-    
+    const result = filteredByTime.map((obj: iHistoryPrice) => {
 
-    return historyPrice
+        const mySymbol = obj.history.find((item: iMaped) => item.id == id)
+
+        return {
+            "Data": obj.time,
+            "id": mySymbol.id,
+            "Symbol": mySymbol.symbol,
+            "Price": mySymbol.price
+        }
+    })
+
+    return result
 }
 
-async function saveHistoryPrice() {
+async function saveHistoryPrice(): Promise<void> {
     const { time, ticker } = await CryptoPricesFromApi();
 
-    const maped = ticker.map(el => { return { "symbol": el.symbol, "price": el.last } })
+    const maped = ticker.map((el, ind) => { return { "id": (ind + 2), "symbol": el.symbol, "price": el.last } })
 
     historyPrice.push({
         'time': new Date(time),
@@ -143,7 +152,7 @@ async function saveHistoryPrice() {
     console.log('History successfully');
 };
 
-cron.schedule('*/60 * * * *', async () => {
+cron.schedule('*/5 * * * *', async () => {
     try {
         const data = await getCryptoPriceDB();
 

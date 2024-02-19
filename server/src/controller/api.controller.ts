@@ -1,11 +1,12 @@
-import express, { Request, Responce } from 'express';
+import express, { Request, Response } from 'express';
 import { createUser, authorizationUser, getCryptoPrice, getCryptoPriceById } from '../service/api.service';
 import buildResponse from '../helper/buildResponse'
 import createToken from '../helper/jwt';
+import authenticateToken from '../middlewares/token.middleware';
 
 const route = express.Router();
 
-route.post(`/register`, async (req: Request, res: Responce): Promise<void> => {
+route.post(`/register`, async (req: Request, res: Response): Promise<void> => {
     try {
         const { name, surname, email, pwd } = req.body
         const data = await createUser(name, surname, email, pwd);
@@ -16,7 +17,7 @@ route.post(`/register`, async (req: Request, res: Responce): Promise<void> => {
     }
 })
 
-route.post(`/auth`, async (req: Request, res: Responce): Promise<void> => {
+route.post(`/auth`, async (req: Request, res: Response): Promise<void> => {
     try {
         const { email, pwd } = req.body;
         const data = await authorizationUser(email, pwd)
@@ -33,7 +34,7 @@ route.post(`/auth`, async (req: Request, res: Responce): Promise<void> => {
     }
 })
 
-route.get(`/crypto`, async (req: Request, res: Responce): Promise<void> => {
+route.get(`/crypto`, authenticateToken, async (req: Request, res: Response): Promise<void> => {
     try {
         const data = await getCryptoPrice()
 
@@ -43,7 +44,7 @@ route.get(`/crypto`, async (req: Request, res: Responce): Promise<void> => {
     }
 })
 
-route.get(`/crypto/:id`, async (req: Request, res: Responce): Promise<void> => {
+route.get(`/crypto/:id`, authenticateToken, async (req: Request, res: Response): Promise<void> => {
     try {
         const { id } = req.params;
         const { start, end } = req.query;
